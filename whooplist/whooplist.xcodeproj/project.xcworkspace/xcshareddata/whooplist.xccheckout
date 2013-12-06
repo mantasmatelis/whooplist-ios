@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>28EE4C67-1091-40C0-8F18-E94B23B55994</string>
+	<key>IDESourceControlProjectName</key>
+	<string>whooplist</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>35742509-A0D7-436C-A317-3A09A67D08FA</key>
+		<string>https://bitbucket.org/whooplist/whooplist.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>whooplist/whooplist.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>35742509-A0D7-436C-A317-3A09A67D08FA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/whooplist/whooplist.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>35742509-A0D7-436C-A317-3A09A67D08FA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>35742509-A0D7-436C-A317-3A09A67D08FA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>whooplist</string>
+		</dict>
+	</array>
+</dict>
+</plist>
