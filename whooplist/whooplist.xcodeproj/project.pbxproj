@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D76D80051852C0D600D50D56 /* WLViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D76D80041852C0D600D50D56 /* WLViewController.m */; };
+		D76D800B1852DFD600D50D56 /* WLProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D76D800A1852DFD600D50D56 /* WLProfileViewController.m */; };
 		D7E91A681852AAA60053E26B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7E91A671852AAA60053E26B /* Foundation.framework */; };
 		D7E91A6A1852AAA60053E26B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7E91A691852AAA60053E26B /* CoreGraphics.framework */; };
 		D7E91A6C1852AAA60053E26B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7E91A6B1852AAA60053E26B /* UIKit.framework */; };
@@ -22,6 +24,8 @@
 		D7E91A891852AAA60053E26B /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7E91A6D1852AAA60053E26B /* CoreData.framework */; };
 		D7E91A911852AAA60053E26B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D7E91A8F1852AAA60053E26B /* InfoPlist.strings */; };
 		D7E91A931852AAA60053E26B /* whooplistTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D7E91A921852AAA60053E26B /* whooplistTests.m */; };
+		D7E91A9D1852AC570053E26B /* WLStoryMain.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7E91A9C1852AC570053E26B /* WLStoryMain.storyboard */; };
+		D7E91AA51852B2FF0053E26B /* WLStartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D7E91AA41852B2FF0053E26B /* WLStartViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +39,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D76D80031852C0D600D50D56 /* WLViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLViewController.h; sourceTree = "<group>"; };
+		D76D80041852C0D600D50D56 /* WLViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLViewController.m; sourceTree = "<group>"; };
+		D76D80091852DFD600D50D56 /* WLProfileViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLProfileViewController.h; sourceTree = "<group>"; };
+		D76D800A1852DFD600D50D56 /* WLProfileViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLProfileViewController.m; sourceTree = "<group>"; };
 		D7E91A641852AAA60053E26B /* whooplist.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = whooplist.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7E91A671852AAA60053E26B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D7E91A691852AAA60053E26B /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +61,9 @@
 		D7E91A8E1852AAA60053E26B /* whooplistTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "whooplistTests-Info.plist"; sourceTree = "<group>"; };
 		D7E91A901852AAA60053E26B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D7E91A921852AAA60053E26B /* whooplistTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = whooplistTests.m; sourceTree = "<group>"; };
+		D7E91A9C1852AC570053E26B /* WLStoryMain.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = WLStoryMain.storyboard; sourceTree = "<group>"; };
+		D7E91AA31852B2FF0053E26B /* WLStartViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLStartViewController.h; sourceTree = "<group>"; };
+		D7E91AA41852B2FF0053E26B /* WLStartViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLStartViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +131,13 @@
 				D7E91A7E1852AAA60053E26B /* Images.xcassets */,
 				D7E91A7B1852AAA60053E26B /* whooplist.xcdatamodeld */,
 				D7E91A701852AAA60053E26B /* Supporting Files */,
+				D7E91A9C1852AC570053E26B /* WLStoryMain.storyboard */,
+				D7E91AA31852B2FF0053E26B /* WLStartViewController.h */,
+				D7E91AA41852B2FF0053E26B /* WLStartViewController.m */,
+				D76D80031852C0D600D50D56 /* WLViewController.h */,
+				D76D80041852C0D600D50D56 /* WLViewController.m */,
+				D76D80091852DFD600D50D56 /* WLProfileViewController.h */,
+				D76D800A1852DFD600D50D56 /* WLProfileViewController.m */,
 			);
 			path = whooplist;
 			sourceTree = "<group>";
@@ -229,6 +247,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D7E91A9D1852AC570053E26B /* WLStoryMain.storyboard in Resources */,
 				D7E91A741852AAA60053E26B /* InfoPlist.strings in Resources */,
 				D7E91A7F1852AAA60053E26B /* Images.xcassets in Resources */,
 			);
@@ -249,8 +268,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D76D80051852C0D600D50D56 /* WLViewController.m in Sources */,
+				D76D800B1852DFD600D50D56 /* WLProfileViewController.m in Sources */,
 				D7E91A761852AAA60053E26B /* main.m in Sources */,
 				D7E91A7A1852AAA60053E26B /* WLAppDelegate.m in Sources */,
+				D7E91AA51852B2FF0053E26B /* WLStartViewController.m in Sources */,
 				D7E91A7D1852AAA60053E26B /* whooplist.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -452,6 +474,7 @@
 				D7E91A981852AAA60053E26B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D7E91A991852AAA60053E26B /* Build configuration list for PBXNativeTarget "whooplistTests" */ = {
 			isa = XCConfigurationList;
@@ -460,6 +483,7 @@
 				D7E91A9B1852AAA60053E26B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

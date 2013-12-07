@@ -7,6 +7,7 @@
 //
 
 #import "WLAppDelegate.h"
+#import "WLStartViewController.h"
 
 @implementation WLAppDelegate
 
@@ -17,8 +18,15 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-    // Override point for customization after application launch.
+    
     self.window.backgroundColor = [UIColor whiteColor];
+    
+    UIStoryboard *sb = [UIStoryboard storyboardWithName:@"WLStoryMain" bundle:nil];
+    UIViewController *vc = [sb instantiateInitialViewController];
+    self.window.rootViewController = vc;
+//    WLStartViewController *wsvc = [[WLStartViewController alloc] init];
+//    self.window.rootViewController = wsvc;
+    
     [self.window makeKeyAndVisible];
     return YES;
 }
