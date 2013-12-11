@@ -8,6 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		D7192CB618583E5900833136 /* WLSession.m in Sources */ = {isa = PBXBuildFile; fileRef = D7192CB518583E5900833136 /* WLSession.m */; };
+		D7192CC8185866DB00833136 /* libRestKit.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D7192CBF1858659B00833136 /* libRestKit.a */; };
+		D7192CCD185866DB00833136 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7192CC9185866DB00833136 /* CFNetwork.framework */; };
+		D7192CCE185866DB00833136 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7192CCA185866DB00833136 /* MobileCoreServices.framework */; };
+		D7192CCF185866DB00833136 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7192CCB185866DB00833136 /* Security.framework */; };
+		D7192CD0185866DB00833136 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7192CCC185866DB00833136 /* SystemConfiguration.framework */; };
+		D7192CD5185871FE00833136 /* WLJSONAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = D7192CD4185871FE00833136 /* WLJSONAdditions.m */; };
 		D76D80051852C0D600D50D56 /* WLViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D76D80041852C0D600D50D56 /* WLViewController.m */; };
 		D76D800B1852DFD600D50D56 /* WLProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D76D800A1852DFD600D50D56 /* WLProfileViewController.m */; };
 		D7E91A681852AAA60053E26B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7E91A671852AAA60053E26B /* Foundation.framework */; };
@@ -30,6 +36,41 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
+		D7192CBE1858659B00833136 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D7192CB71858659800833136 /* RestKit.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 25160D1614564E810060A5C5;
+			remoteInfo = RestKit;
+		};
+		D7192CC01858659B00833136 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D7192CB71858659800833136 /* RestKit.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 25160D2614564E820060A5C5;
+			remoteInfo = RestKitTests;
+		};
+		D7192CC21858659B00833136 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D7192CB71858659800833136 /* RestKit.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 25160E62145651060060A5C5;
+			remoteInfo = RestKitFramework;
+		};
+		D7192CC41858659B00833136 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D7192CB71858659800833136 /* RestKit.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 25160E78145651060060A5C5;
+			remoteInfo = RestKitFrameworkTests;
+		};
+		D7192CC61858667700833136 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D7192CB71858659800833136 /* RestKit.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = 25160D1514564E810060A5C5;
+			remoteInfo = RestKit;
+		};
 		D7E91A8A1852AAA60053E26B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D7E91A5C1852AAA50053E26B /* Project object */;
@@ -42,6 +83,13 @@
 /* Begin PBXFileReference section */
 		D7192CB418583E5900833136 /* WLSession.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLSession.h; sourceTree = "<group>"; };
 		D7192CB518583E5900833136 /* WLSession.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLSession.m; sourceTree = "<group>"; };
+		D7192CB71858659800833136 /* RestKit.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RestKit.xcodeproj; path = ../RestKit/RestKit.xcodeproj; sourceTree = "<group>"; };
+		D7192CC9185866DB00833136 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		D7192CCA185866DB00833136 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		D7192CCB185866DB00833136 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		D7192CCC185866DB00833136 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		D7192CD3185871FE00833136 /* WLJSONAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLJSONAdditions.h; sourceTree = "<group>"; };
+		D7192CD4185871FE00833136 /* WLJSONAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLJSONAdditions.m; sourceTree = "<group>"; };
 		D76D80031852C0D600D50D56 /* WLViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLViewController.h; sourceTree = "<group>"; };
 		D76D80041852C0D600D50D56 /* WLViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLViewController.m; sourceTree = "<group>"; };
 		D76D80091852DFD600D50D56 /* WLProfileViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLProfileViewController.h; sourceTree = "<group>"; };
@@ -74,6 +122,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D7192CCD185866DB00833136 /* CFNetwork.framework in Frameworks */,
+				D7192CCE185866DB00833136 /* MobileCoreServices.framework in Frameworks */,
+				D7192CCF185866DB00833136 /* Security.framework in Frameworks */,
+				D7192CD0185866DB00833136 /* SystemConfiguration.framework in Frameworks */,
+				D7192CC8185866DB00833136 /* libRestKit.a in Frameworks */,
 				D7E91A6A1852AAA60053E26B /* CoreGraphics.framework in Frameworks */,
 				D7E91A6E1852AAA60053E26B /* CoreData.framework in Frameworks */,
 				D7E91A6C1852AAA60053E26B /* UIKit.framework in Frameworks */,
@@ -95,9 +148,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D7192CB81858659800833136 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D7192CBF1858659B00833136 /* libRestKit.a */,
+				D7192CC11858659B00833136 /* RestKitTests.octest */,
+				D7192CC31858659B00833136 /* RestKit.framework */,
+				D7192CC51858659B00833136 /* RestKitFrameworkTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		D7E91A5B1852AAA50053E26B = {
 			isa = PBXGroup;
 			children = (
+				D7192CB71858659800833136 /* RestKit.xcodeproj */,
 				D7E91A6F1852AAA60053E26B /* whooplist */,
 				D7E91A8C1852AAA60053E26B /* whooplistTests */,
 				D7E91A661852AAA60053E26B /* Frameworks */,
@@ -117,6 +182,10 @@
 		D7E91A661852AAA60053E26B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				D7192CC9185866DB00833136 /* CFNetwork.framework */,
+				D7192CCA185866DB00833136 /* MobileCoreServices.framework */,
+				D7192CCB185866DB00833136 /* Security.framework */,
+				D7192CCC185866DB00833136 /* SystemConfiguration.framework */,
 				D7E91A671852AAA60053E26B /* Foundation.framework */,
 				D7E91A691852AAA60053E26B /* CoreGraphics.framework */,
 				D7E91A6B1852AAA60053E26B /* UIKit.framework */,
@@ -143,6 +212,8 @@
 				D76D800A1852DFD600D50D56 /* WLProfileViewController.m */,
 				D7192CB418583E5900833136 /* WLSession.h */,
 				D7192CB518583E5900833136 /* WLSession.m */,
+				D7192CD3185871FE00833136 /* WLJSONAdditions.h */,
+				D7192CD4185871FE00833136 /* WLJSONAdditions.m */,
 			);
 			path = whooplist;
 			sourceTree = "<group>";
@@ -190,6 +261,7 @@
 			buildRules = (
 			);
 			dependencies = (
+				D7192CC71858667700833136 /* PBXTargetDependency */,
 			);
 			name = whooplist;
 			productName = whooplist;
@@ -239,6 +311,12 @@
 			mainGroup = D7E91A5B1852AAA50053E26B;
 			productRefGroup = D7E91A651852AAA60053E26B /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = D7192CB81858659800833136 /* Products */;
+					ProjectRef = D7192CB71858659800833136 /* RestKit.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				D7E91A631852AAA60053E26B /* whooplist */,
@@ -246,6 +324,37 @@
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		D7192CBF1858659B00833136 /* libRestKit.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libRestKit.a;
+			remoteRef = D7192CBE1858659B00833136 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		D7192CC11858659B00833136 /* RestKitTests.octest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = RestKitTests.octest;
+			remoteRef = D7192CC01858659B00833136 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		D7192CC31858659B00833136 /* RestKit.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = RestKit.framework;
+			remoteRef = D7192CC21858659B00833136 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		D7192CC51858659B00833136 /* RestKitFrameworkTests.octest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = RestKitFrameworkTests.octest;
+			remoteRef = D7192CC41858659B00833136 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		D7E91A621852AAA60053E26B /* Resources */ = {
@@ -280,6 +389,7 @@
 				D7192CB618583E5900833136 /* WLSession.m in Sources */,
 				D7E91AA51852B2FF0053E26B /* WLStartViewController.m in Sources */,
 				D7E91A7D1852AAA60053E26B /* whooplist.xcdatamodeld in Sources */,
+				D7192CD5185871FE00833136 /* WLJSONAdditions.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -294,6 +404,11 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
+		D7192CC71858667700833136 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = RestKit;
+			targetProxy = D7192CC61858667700833136 /* PBXContainerItemProxy */;
+		};
 		D7E91A8B1852AAA60053E26B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = D7E91A631852AAA60053E26B /* whooplist */;
@@ -354,8 +469,17 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"\"$(BUILT_PRODUCTS_DIR)/../../Headers\"",
+				);
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				ONLY_ACTIVE_ARCH = YES;
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -387,7 +511,16 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"\"$(BUILT_PRODUCTS_DIR)/../../Headers\"",
+				);
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -400,7 +533,16 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "whooplist/whooplist-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"\"$(BUILT_PRODUCTS_DIR)/../../Headers\"",
+				);
 				INFOPLIST_FILE = "whooplist/whooplist-Info.plist";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -413,7 +555,16 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "whooplist/whooplist-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"\"$(BUILT_PRODUCTS_DIR)/../../Headers\"",
+				);
 				INFOPLIST_FILE = "whooplist/whooplist-Info.plist";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};

@@ -7,13 +7,14 @@
 //
 
 #import "WLSession.h"
+#import "WLJSONAdditions.h"
 
 @implementation WLSession
 
 NSString *_username = @"";
 NSString *_password = @"";
 
-NSString *_lastReq = @"";
+NSURLRequest *_lastReq;
 NSURLResponse *_lastResp;
 
 NSURLConnection *_conn;
@@ -34,17 +35,31 @@ id _respObj;
     _respAction = action;
 }
 
-+(void)doWLGetRequest:(NSString *)route {
-    NSURLRequest *req = [[NSURLRequest alloc] initWithURL:[NSURL URLWithString:route relativeToURL:[NSURL URLWithString:WLAPI_URL]]];
+-(void)doWLGetRequest:(NSString *)route {
+    NSMutableURLRequest *req = [[NSMutableURLRequest alloc] initWithURL:[NSURL URLWithString:route relativeToURL:[NSURL URLWithString:WLAPI_URL]]];
+    [req setHTTPMethod:@"GET"];
+    
     _conn = [[NSURLConnection alloc] initWithRequest:req delegate:self startImmediately:YES];
-    _lastReq = route;
+    _lastReq = req;
+    _lastResp = NULL;
+}
+
+-(void)doWLPostRequest:(NSString *)route withData:(NSDictionary*)data {
+    NSString *jsonString = [data jsonStringWithPrettyPrint:NO];
+    NSMutableURLRequest *req = [[NSMutableURLRequest alloc] initWithURL:[NSURL URLWithString:route relativeToURL:[NSURL URLWithString:WLAPI_URL]]];
+    [req setHTTPMethod:@"POST"];
+    [req setHTTPBody:[jsonString dataUsingEncoding:NSUTF8StringEncoding]];
+    
+    _conn = [[NSURLConnection alloc] initWithRequest:req delegate:self startImmediately:YES];
+    _lastReq = req;
     _lastResp = NULL;
 }
 
 -(void)connection:(NSURLConnection *)connection didReceiveResponse:(NSURLResponse *)response {
-    NSLog(@"%@", [response description]);
-    _lastResp = response;
-    [_respObj performSelector:_respAction];
+    NSLog(@"Request: %@", [_lastReq description]);
+    NSLog(@"Response: %@", [(_lastResp = response) description]);
+    if (_respObj && _respAction)
+        [_respObj performSelector:_respAction];
 }
 
 

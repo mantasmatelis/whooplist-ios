@@ -13,7 +13,7 @@
 
 -(id)initWithUsername:(NSString*)username andPassword:(NSString*)password;
 -(void)setResponseObject:(id)object andAction:(SEL)action;
-+(void)doWLGetRequest:(NSString *)route;
--(void)connection:(NSURLConnection *)connection didReceiveResponse:(NSURLResponse *)response;
+-(void)doWLGetRequest:(NSString *)route;
+-(void)doWLPostRequest:(NSString *)route withData:(NSDictionary*)data;
 
 @end

@@ -9,6 +9,7 @@
 #import "WLAppDelegate.h"
 #import "WLStartViewController.h"
 #import "WLSession.h"
+#import <RestKit/RestKit.h>
 
 @implementation WLAppDelegate
 
@@ -23,6 +24,14 @@
     self.window.backgroundColor = [UIColor whiteColor];
     
     WLSession *session = [[WLSession alloc] initWithUsername:@"me@mantasmatelis.com" andPassword:@"password"];
+    [session doWLPostRequest:@"/users/login" withData:
+     [NSDictionary dictionaryWithObject:
+      [NSDictionary dictionaryWithObjectsAndKeys:
+       @"me@mantasmatelis.com", @"Email",
+       @"password", @"Password",
+       nil]
+                                 forKey:@"User"]
+     ];
     
     
     UIStoryboard *sb = [UIStoryboard storyboardWithName:@"WLStoryMain" bundle:nil];
