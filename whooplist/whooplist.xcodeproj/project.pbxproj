@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D7192CB618583E5900833136 /* WLSession.m in Sources */ = {isa = PBXBuildFile; fileRef = D7192CB518583E5900833136 /* WLSession.m */; };
 		D76D80051852C0D600D50D56 /* WLViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D76D80041852C0D600D50D56 /* WLViewController.m */; };
 		D76D800B1852DFD600D50D56 /* WLProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D76D800A1852DFD600D50D56 /* WLProfileViewController.m */; };
 		D7E91A681852AAA60053E26B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7E91A671852AAA60053E26B /* Foundation.framework */; };
@@ -39,6 +40,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D7192CB418583E5900833136 /* WLSession.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLSession.h; sourceTree = "<group>"; };
+		D7192CB518583E5900833136 /* WLSession.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLSession.m; sourceTree = "<group>"; };
 		D76D80031852C0D600D50D56 /* WLViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLViewController.h; sourceTree = "<group>"; };
 		D76D80041852C0D600D50D56 /* WLViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLViewController.m; sourceTree = "<group>"; };
 		D76D80091852DFD600D50D56 /* WLProfileViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLProfileViewController.h; sourceTree = "<group>"; };
@@ -138,6 +141,8 @@
 				D76D80041852C0D600D50D56 /* WLViewController.m */,
 				D76D80091852DFD600D50D56 /* WLProfileViewController.h */,
 				D76D800A1852DFD600D50D56 /* WLProfileViewController.m */,
+				D7192CB418583E5900833136 /* WLSession.h */,
+				D7192CB518583E5900833136 /* WLSession.m */,
 			);
 			path = whooplist;
 			sourceTree = "<group>";
@@ -272,6 +277,7 @@
 				D76D800B1852DFD600D50D56 /* WLProfileViewController.m in Sources */,
 				D7E91A761852AAA60053E26B /* main.m in Sources */,
 				D7E91A7A1852AAA60053E26B /* WLAppDelegate.m in Sources */,
+				D7192CB618583E5900833136 /* WLSession.m in Sources */,
 				D7E91AA51852B2FF0053E26B /* WLStartViewController.m in Sources */,
 				D7E91A7D1852AAA60053E26B /* whooplist.xcdatamodeld in Sources */,
 			);

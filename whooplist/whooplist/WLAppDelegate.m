@@ -8,6 +8,7 @@
 
 #import "WLAppDelegate.h"
 #import "WLStartViewController.h"
+#import "WLSession.h"
 
 @implementation WLAppDelegate
 
@@ -20,6 +21,9 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     
     self.window.backgroundColor = [UIColor whiteColor];
+    
+    WLSession *session = [[WLSession alloc] initWithUsername:@"me@mantasmatelis.com" andPassword:@"password"];
+    
     
     UIStoryboard *sb = [UIStoryboard storyboardWithName:@"WLStoryMain" bundle:nil];
     UIViewController *vc = [sb instantiateInitialViewController];
