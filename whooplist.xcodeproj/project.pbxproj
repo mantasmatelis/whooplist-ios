@@ -15,6 +15,8 @@
 		D7192CD5185871FE00833136 /* WLJSONAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = D7192CD4185871FE00833136 /* WLJSONAdditions.m */; };
 		D76D80051852C0D600D50D56 /* WLViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D76D80041852C0D600D50D56 /* WLViewController.m */; };
 		D76D800B1852DFD600D50D56 /* WLProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D76D800A1852DFD600D50D56 /* WLProfileViewController.m */; };
+		D7AAC2BC1859593D002B60F2 /* WLRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = D7AAC2BB1859593D002B60F2 /* WLRequest.m */; };
+		D7AAC2BF18598539002B60F2 /* WLDashboardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D7AAC2BE18598538002B60F2 /* WLDashboardViewController.m */; };
 		D7E91A681852AAA60053E26B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7E91A671852AAA60053E26B /* Foundation.framework */; };
 		D7E91A6A1852AAA60053E26B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7E91A691852AAA60053E26B /* CoreGraphics.framework */; };
 		D7E91A6C1852AAA60053E26B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7E91A6B1852AAA60053E26B /* UIKit.framework */; };
@@ -57,6 +59,10 @@
 		D76D80041852C0D600D50D56 /* WLViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLViewController.m; sourceTree = "<group>"; };
 		D76D80091852DFD600D50D56 /* WLProfileViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLProfileViewController.h; sourceTree = "<group>"; };
 		D76D800A1852DFD600D50D56 /* WLProfileViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLProfileViewController.m; sourceTree = "<group>"; };
+		D7AAC2BA1859593D002B60F2 /* WLRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLRequest.h; sourceTree = "<group>"; };
+		D7AAC2BB1859593D002B60F2 /* WLRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLRequest.m; sourceTree = "<group>"; };
+		D7AAC2BD18598538002B60F2 /* WLDashboardViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLDashboardViewController.h; sourceTree = "<group>"; };
+		D7AAC2BE18598538002B60F2 /* WLDashboardViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLDashboardViewController.m; sourceTree = "<group>"; };
 		D7E91A641852AAA60053E26B /* whooplist.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = whooplist.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7E91A671852AAA60053E26B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D7E91A691852AAA60053E26B /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -164,6 +170,10 @@
 				D7192CB518583E5900833136 /* WLSession.m */,
 				D7192CD3185871FE00833136 /* WLJSONAdditions.h */,
 				D7192CD4185871FE00833136 /* WLJSONAdditions.m */,
+				D7AAC2BA1859593D002B60F2 /* WLRequest.h */,
+				D7AAC2BB1859593D002B60F2 /* WLRequest.m */,
+				D7AAC2BD18598538002B60F2 /* WLDashboardViewController.h */,
+				D7AAC2BE18598538002B60F2 /* WLDashboardViewController.m */,
 			);
 			path = whooplist;
 			sourceTree = "<group>";
@@ -296,10 +306,12 @@
 			files = (
 				D76D80051852C0D600D50D56 /* WLViewController.m in Sources */,
 				D76D800B1852DFD600D50D56 /* WLProfileViewController.m in Sources */,
+				D7AAC2BF18598539002B60F2 /* WLDashboardViewController.m in Sources */,
 				D7E91A761852AAA60053E26B /* main.m in Sources */,
 				D7E91A7A1852AAA60053E26B /* WLAppDelegate.m in Sources */,
 				D7192CB618583E5900833136 /* WLSession.m in Sources */,
 				D7E91AA51852B2FF0053E26B /* WLStartViewController.m in Sources */,
+				D7AAC2BC1859593D002B60F2 /* WLRequest.m in Sources */,
 				D7E91A7D1852AAA60053E26B /* whooplist.xcdatamodeld in Sources */,
 				D7192CD5185871FE00833136 /* WLJSONAdditions.m in Sources */,
 			);

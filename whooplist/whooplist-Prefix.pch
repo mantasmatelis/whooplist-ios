@@ -31,3 +31,5 @@
 #endif
 
 #define WLAPI_URL   @"https://api.whooplist.com/"
+#define APP_DEL     ((WLAppDelegate*)[[UIApplication sharedApplication] delegate])
+#define WL_SESS     [APP_DEL mainSession]

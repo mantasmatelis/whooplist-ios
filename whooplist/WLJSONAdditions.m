@@ -19,7 +19,7 @@
         NSLog(@"jsonStringWithPrettyPrint: error: %@", error.localizedDescription);
         return @"{}";
     } else {
-        return [[NSString alloc] initWithData:jsonData encoding:NSUTF8StringEncoding];
+        return [[[NSString alloc] initWithData:jsonData encoding:NSUTF8StringEncoding] stringByReplacingOccurrencesOfString:@"\\/" withString:@"/"];
     }
 }
 @end
@@ -35,7 +35,21 @@
         NSLog(@"jsonStringWithPrettyPrint: error: %@", error.localizedDescription);
         return @"[]";
     } else {
-        return [[NSString alloc] initWithData:jsonData encoding:NSUTF8StringEncoding];
+        return [[[NSString alloc] initWithData:jsonData encoding:NSUTF8StringEncoding] stringByReplacingOccurrencesOfString:@"\\/" withString:@"/"];
     }
 }
+@end
+
+@implementation NSString (WLJSONAdditions)
+
+- (NSDictionary *)jsonDictionary {
+    NSError *error;
+    NSDictionary *jsonData = [NSJSONSerialization JSONObjectWithData:[self dataUsingEncoding:NSUTF8StringEncoding] options:NSJSONReadingAllowFragments error:&error];
+    if (!jsonData) {
+        NSLog(@"jsonStringWithPrettyPrint: error: %@", error.localizedDescription);
+        return @{};
+    }
+    return jsonData;
+}
+
 @end

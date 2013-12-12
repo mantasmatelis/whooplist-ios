@@ -7,6 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "WLSession.h"
+#import "WLRequest.h"
 
 @interface WLAppDelegate : UIResponder <UIApplicationDelegate>
 
@@ -15,6 +17,7 @@
 @property (readonly, strong, nonatomic) NSManagedObjectContext *managedObjectContext;
 @property (readonly, strong, nonatomic) NSManagedObjectModel *managedObjectModel;
 @property (readonly, strong, nonatomic) NSPersistentStoreCoordinator *persistentStoreCoordinator;
+@property (nonatomic, retain, readonly) WLSession *mainSession;
 
 - (void)saveContext;
 - (NSURL *)applicationDocumentsDirectory;

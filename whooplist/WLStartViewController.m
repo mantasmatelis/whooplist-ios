@@ -7,6 +7,7 @@
 //
 
 #import "WLStartViewController.h"
+#import "WLAppDelegate.h"
 
 @interface WLStartViewController ()
 
@@ -27,6 +28,38 @@
     [self.email resignFirstResponder];
     [self.pwd resignFirstResponder];
     [super touchesEnded:touches withEvent:event];
+}
+
+-(void)observeLogin {
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(loginSuccess) name:@"WL_Login_Success" object:nil];
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(loginFailure) name:@"WL_Login_Failure" object:nil];
+}
+
+-(void)ignoreLogin {
+    [[NSNotificationCenter defaultCenter] removeObserver:self name:@"WL_Login_Success" object:nil];
+    [[NSNotificationCenter defaultCenter] removeObserver:self name:@"WL_Login_Failure" object:nil];
+}
+
+-(IBAction)doLogin:(id)sender {
+    [self.email resignFirstResponder];
+    [self.pwd resignFirstResponder];
+    [WL_SESS setUsername:self.email.text];
+    [WL_SESS setPassword:self.pwd.text];
+    [self observeLogin];
+    [WL_SESS doLoginRequest];
+}
+
+-(void)loginSuccess {
+    NSLog(@"Login success.");
+    [self ignoreLogin];
+    UIStoryboard *storyboard = [UIStoryboard storyboardWithName:@"WLStoryMain" bundle:nil];
+    UIViewController *vc = [storyboard instantiateViewControllerWithIdentifier:@"Dashboard"];
+    [self presentViewController:vc animated:YES completion:nil];
+}
+
+-(void)loginFailure {
+    NSLog(@"Login failure.");
+    [self ignoreLogin];
 }
 
 - (void)viewDidLoad

@@ -11,6 +11,8 @@
 
 @interface WLStartViewController : WLViewController
 
+-(IBAction)doLogin:(id)sender;
+
 @property (nonatomic, retain) IBOutlet UITextField *email;
 @property (nonatomic, retain) IBOutlet UITextField *pwd;
 

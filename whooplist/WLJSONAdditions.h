@@ -9,9 +9,13 @@
 #import <Foundation/Foundation.h>
 
 @interface NSDictionary (WLJSONAdditions)
-    -(NSString*) jsonStringWithPrettyPrint:(BOOL) prettyPrint;
+-(NSString*) jsonStringWithPrettyPrint:(BOOL) prettyPrint;
 @end
 
 @interface NSArray (WLJSONAdditions)
-    - (NSString *)jsonStringWithPrettyPrint:(BOOL)prettyPrint;
+- (NSString *)jsonStringWithPrettyPrint:(BOOL)prettyPrint;
+@end
+
+@interface NSString (WLJSONAdditions)
+- (NSDictionary *)jsonDictionary;
 @end

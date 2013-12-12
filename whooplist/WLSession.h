@@ -7,13 +7,27 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "WLRequest.h"
 
-@interface WLSession : NSObject <NSURLConnectionDataDelegate>
-
+@interface WLSession : NSObject
 
 -(id)initWithUsername:(NSString*)username andPassword:(NSString*)password;
--(void)setResponseObject:(id)object andAction:(SEL)action;
--(void)doWLGetRequest:(NSString *)route;
--(void)doWLPostRequest:(NSString *)route withData:(NSDictionary*)data;
+
+-(WLRequest*)getWLGetRequest:(NSString *)route;
+
+-(WLRequest*)getWLPostRequest:(NSString *)route withData:(NSDictionary*)data;
+
+-(WLRequest*)getLoginRequest;
+
+-(void)doLoginRequest;
+
+-(void)doCurrentUserInfoRequest;
+
+-(void)doPPChangeRequest:(UIImage *)image;
+
+@property (nonatomic, retain) NSString *username;
+@property (nonatomic, retain) NSString *password;
+@property (nonatomic, retain, readonly) NSString *key;
+@property (nonatomic, retain, readonly) NSString *userID;
 
 @end
