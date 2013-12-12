@@ -1,0 +1,33 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#if __IPHONE_OS_VERSION_MIN_REQUIRED
+    #ifndef __IPHONE_5_0
+        #warning "This project uses features only available in iPhone SDK 5.0 and later."
+    #endif
+
+    #ifdef __OBJC__
+        #import <UIKit/UIKit.h>
+        #import <Foundation/Foundation.h>
+        #import <SystemConfiguration/SystemConfiguration.h>
+        #import <MobileCoreServices/MobileCoreServices.h>
+        #import <CoreData/CoreData.h>
+    #endif
+#else
+    #ifdef __OBJC__
+        #import <Cocoa/Cocoa.h>
+        #import <SystemConfiguration/SystemConfiguration.h>
+        #import <CoreServices/CoreServices.h>
+    #endif
+#endif
+
+#define WLAPI_URL   @"https://api.whooplist.com/"
