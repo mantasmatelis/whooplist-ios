@@ -7,6 +7,7 @@
 //
 
 #import "WLViewController.h"
+#import "UIImage+ImageEffects.h"
 
 @interface WLViewController ()
 
@@ -14,11 +15,10 @@
 
 @implementation WLViewController
 
-- (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
-{
-    self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
-    if (self) {
-        // Custom initialization
+-(id)init {
+    if (self = [super init]) {
+        self.wlNavItem = [[WLNavigationItem alloc] init];
+        _isNavigationSubview = NO;
     }
     return self;
 }
@@ -26,6 +26,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    if (_isNavigationSubview)
+        self.view.frame = CGRectMake(self.view.frame.origin.x, WL_NAVBAR_HEIGHT, self.view.frame.size.width, [[UIScreen mainScreen] bounds].size.height - WL_NAVBAR_HEIGHT);
+    self.view.backgroundColor = [UIColor clearColor];
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(keyboardWillShow:) name:UIKeyboardWillShowNotification object:nil];
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(keyboardWillHide:) name:UIKeyboardWillHideNotification object:nil];
 }
@@ -46,6 +49,30 @@
     [UIView beginAnimations:nil context:NULL];
     [self.resizeView setFrame:CGRectMake(self.resizeView.frame.origin.x, self.resizeView.frame.origin.y+h/2, self.resizeView.frame.size.width, self.resizeView.frame.size.height)];
     [UIView commitAnimations];
+}
+
+-(UIImage *)blurredSnapshot
+{
+    // Create the image context
+    UIGraphicsBeginImageContextWithOptions(self.view.bounds.size, NO, self.view.window.screen.scale);
+    
+    // There he is! The new API method
+    [self.view drawViewHierarchyInRect:self.view.frame afterScreenUpdates:NO];
+    
+    // Get the snapshot
+    UIImage *snapshotImage = UIGraphicsGetImageFromCurrentImageContext();
+    
+    // Now apply the blur effect using Apple's UIImageEffect category
+//    UIImage *blurredSnapshotImage = [snapshotImage applyLightEffect];
+    
+    // Or apply any other effects available in "UIImage+ImageEffects.h"
+    UIImage *blurredSnapshotImage = [snapshotImage applyDarkEffect];
+    // UIImage *blurredSnapshotImage = [snapshotImage applyExtraLightEffect];
+    
+    // Be nice and clean your mess up
+    UIGraphicsEndImageContext();
+    
+    return blurredSnapshotImage;
 }
 
 - (void)didReceiveMemoryWarning

@@ -10,8 +10,14 @@
 
 @implementation WLRequest
 
+-(id)init {
+    if (self = [super init])
+        _expectsData = YES;
+    return self;
+}
+
 -(id)initWithTarget:(id)object andAction:(SEL)action {
-    if (self = [super init]) {
+    if (self = [self init]) {
         _target = object;
         _action = action;
     }
@@ -19,15 +25,15 @@
 }
 
 -(id)initWithRequest:(NSURLRequest *)request {
-    if (self = [super init]) {
-        _request = request;
+    if (self = [self init]) {
+        _request = [request mutableCopy];
     }
     return self;
 }
 
 -(id)initWithRequest:(NSURLRequest *)request andTarget:(id)object andAction:(SEL)action {
-    if (self = [super init]) {
-        _request = request;
+    if (self = [self init]) {
+        _request = [request mutableCopy];
         _target = object;
         _action = action;
     }
@@ -50,7 +56,19 @@
 
 -(void)connection:(NSURLConnection *)connection didReceiveData:(NSData *)data {
     _responseBody = [[NSString alloc] initWithData:data encoding:NSUTF8StringEncoding];
-    
+}
+
+-(void)connection:(NSURLConnection *)connection didFailWithError:(NSError *)error {
+    NSLog(@"Connection Error: %@", [error localizedDescription]);
+    if (_target && _action) {
+        IMP imp = [_target methodForSelector:_action];
+        void (*func)(id, SEL, WLRequest*) = (void*)imp;
+        func(_target, _action, self);
+    }
+}
+
+-(void)connectionDidFinishLoading:(NSURLConnection *)connection {
+    NSLog(@"Connection Loaded");
     if (_target && _action) {
         IMP imp = [_target methodForSelector:_action];
         void (*func)(id, SEL, WLRequest*) = (void*)imp;

@@ -7,9 +7,14 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "WLNavigationItem.h"
 
 @interface WLViewController : UIViewController <UITextFieldDelegate>
 
-@property (nonatomic, strong) IBOutlet UIView *resizeView;
+@property (nonatomic, strong) UIView *resizeView;
+@property (nonatomic, retain) WLNavigationItem *wlNavItem;
+@property (nonatomic) BOOL isNavigationSubview;
+
+-(UIImage *)blurredSnapshot;
 
 @end

@@ -2,63 +2,85 @@
 //  WLDashboardViewController.m
 //  whooplist
 //
-//  Created by Dev Chakraborty on 12/12/2013.
+//  Created by Dev Chakraborty on 12/20/2013.
 //  Copyright (c) 2013 Whooplist. All rights reserved.
 //
 
 #import "WLDashboardViewController.h"
+#import "WLNavigationButton.h"
 #import "WLAppDelegate.h"
-#import <QuartzCore/QuartzCore.h>
+#import "WLProfilePictureView.h"
+#import "WLFollowButton.h"
 
 @interface WLDashboardViewController ()
 
 @end
 
+UILabel *nameLabel;
+UIButton *followers;
+UIButton *following;
+UILabel *subtitle;
+WLProfilePictureView *pp;
+
 @implementation WLDashboardViewController
 
-UIImagePickerController *ppPicker;
-
-
-- (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
+- (id)init
 {
-    self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
+    self = [super init];
     if (self) {
-        // Custom initialization
+        APP_DEL.mainViews[@"Dashboard"] = self;
+        self.wlNavItem.left = [WLNavigationButton menuButtonWithOffset:CGPointMake(0, 0)];
+        pp = [[WLProfilePictureView alloc] initWithFrame:CGRectMake(SCREENX/2-WL_PP_SIZE_LARGE/2, WL_NAVBAR_HEIGHT-WL_PP_SIZE_LARGE/2, WL_PP_SIZE_LARGE, WL_PP_SIZE_LARGE)];
+        [pp makeImagePicker];
+        self.wlNavItem.center = pp;
+        self.wlNavItem.right = [[WLNavigationButton alloc] initWithOffset:CGPointMake(0, 0) andImage:[UIImage imageNamed:@"edit"]];
+        
+        self.isNavigationSubview = YES;
+        
+        // Components
+        
+        nameLabel = [[UILabel alloc] initWithFrame:CGRectMake(WL_NAVBAR_BTN_MARGIN, 10+WL_PP_SIZE_LARGE/2, SCREENX-WL_NAVBAR_BTN_MARGIN*2, 25)];
+        nameLabel.textColor = WL_MAIN_TEXT1;
+        nameLabel.font = [UIFont fontWithName:@"Roboto-Bold" size:25.0];
+        nameLabel.text = WL_SESS.userData[@"Name"];
+        nameLabel.textAlignment = NSTextAlignmentCenter;
+        [self.view addSubview:nameLabel];
+        
+        subtitle = [[UILabel alloc] initWithFrame:CGRectMake(WL_NAVBAR_BTN_MARGIN, nameLabel.frame.origin.y+nameLabel.frame.size.height+5, SCREENX-WL_NAVBAR_BTN_MARGIN*2, 20)];
+        subtitle.textColor = WL_MAIN_TEXT2;
+        subtitle.font = [UIFont fontWithName:@"Roboto-Light" size:15.0];
+        subtitle.text = @"DASHBOARD";
+        subtitle.textAlignment = NSTextAlignmentCenter;
+        
+        [self.view addSubview:subtitle];
+        
+        followers = [[WLFollowButton alloc] initWithFrame:CGRectMake(WL_NAVBAR_BTN_MARGIN, subtitle.frame.origin.y+subtitle.frame.size.height+20, 145, 50)];
+        [followers setTitleColor:WL_MAIN_TEXT3 forState:UIControlStateNormal];
+        followers.titleLabel.font = [UIFont fontWithName:@"Roboto-Light" size:15.0];
+        [followers setTitle:@"N followers" forState:UIControlStateNormal];
+        [self.view addSubview:followers];
+        
+        following = [[WLFollowButton alloc] initWithFrame:CGRectMake(followers.frame.origin.x+followers.frame.size.width+10, subtitle.frame.origin.y+subtitle.frame.size.height+20, 145, 50)];
+        [following setTitleColor:WL_MAIN_TEXT3 forState:UIControlStateNormal];
+        following.titleLabel.font = [UIFont fontWithName:@"Roboto-Light" size:15.0];
+        [following setTitle:@"N following" forState:UIControlStateNormal];
+        [self.view addSubview:following];
+        
     }
     return self;
+}
+
+-(void)addUserDetail:(NSString *)key withValue:(NSString *)value {
+    if ([key isEqualToString:@"Name"]) {
+        nameLabel.text = value;
+    } else if ([key isEqualToString:@"Picture"]) {
+        [pp updateImageWithURL:[NSURL URLWithString:value]];
+    }
 }
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    _profilePicture.layer.cornerRadius = _profilePicture.frame.size.width/2.0;
-    _profilePicture.clipsToBounds = YES;
-    [_profilePicture addTarget:self action:@selector(selectPP:) forControlEvents:UIControlEventTouchUpInside];
-    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(userRetrieved:) name:@"WL_User_Retrieved" object:nil];
-    [WL_SESS doCurrentUserInfoRequest];
-}
-
--(void)selectPP:(id)sender {
-    ppPicker = [[UIImagePickerController alloc] init];
-    ppPicker.sourceType = UIImagePickerControllerSourceTypePhotoLibrary;
-    ppPicker.delegate = self;
-    [self presentViewController:ppPicker animated:YES completion:nil];
-}
-
--(void)imagePickerController:(UIImagePickerController *)picker didFinishPickingMediaWithInfo:(NSDictionary *)info {
-    [WL_SESS doPPChangeRequest:info[UIImagePickerControllerOriginalImage]];
-    [picker dismissViewControllerAnimated:YES completion:nil];
-}
-
--(void)userRetrieved:(NSNotification*)notif {
-    NSLog(@"User Retrieved");
-    for (id key in notif.userInfo)
-        [self addUserDetail:(NSString *)key withValue:notif.userInfo[key]];
-}
-
--(void)addUserDetail:(NSString*)detail withValue:(id)value {
-    if ([detail isEqualToString:@"Name"])
-        _nameLabel.text = value;
 }
 
 - (void)didReceiveMemoryWarning

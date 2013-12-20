@@ -7,13 +7,18 @@
 //
 
 #import "WLAppDelegate.h"
-#import "WLStartViewController.h"
+#import "WLBeginViewController.h"
+#import "WLDashboardViewController.h"
+#import "WLProfilePictureView.h"
+#import "WLMenuViewController.h"
+#import "WLMainViewController.h"
 
 @implementation WLAppDelegate
 
 @synthesize managedObjectContext = _managedObjectContext;
 @synthesize managedObjectModel = _managedObjectModel;
 @synthesize persistentStoreCoordinator = _persistentStoreCoordinator;
+UIImagePickerController *_ppPicker;
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
@@ -22,14 +27,20 @@
     self.window.backgroundColor = [UIColor whiteColor];
     
     _mainSession = [[WLSession alloc] init];
+    _mainViews = [[NSMutableDictionary alloc] init];
+    _menuShowing = NO;
     
-    UIStoryboard *sb = [UIStoryboard storyboardWithName:@"WLStoryMain" bundle:nil];
-    UIViewController *vc = [sb instantiateInitialViewController];
+    [[UIApplication sharedApplication] setStatusBarStyle:UIStatusBarStyleLightContent];
+    
+    WLBeginViewController *vc = [[WLBeginViewController alloc] init];
     self.window.rootViewController = vc;
 //    WLStartViewController *wsvc = [[WLStartViewController alloc] init];
 //    self.window.rootViewController = wsvc;
     
     [self.window makeKeyAndVisible];
+    
+    [self observeWLNotifications];
+    
     return YES;
 }
 
@@ -73,6 +84,67 @@
             abort();
         } 
     }
+}
+
+-(void)openMenu {
+    if (_mainViews[@"Main"]) {
+        WLMainViewController *main = _mainViews[@"Main"];
+        WLMenuViewController *menu = _mainViews[@"Menu"] = [[WLMenuViewController alloc] init];
+        [main presentViewController:menu animated:YES completion:nil];
+    }
+}
+    
+#pragma mark - Whooplist Data Event Handlers
+    
+-(void)observeWLNotifications {
+    for (NSString *notif in WL_SUPPORTED_NOTIFS) {
+        SEL sel = NSSelectorFromString([NSString stringWithFormat:@"%@:", [notif stringByReplacingOccurrencesOfString:@"_" withString:@""]]);
+        if ([self respondsToSelector:sel]) {
+            [[NSNotificationCenter defaultCenter] addObserver:self selector:sel name:notif object:nil];
+        }
+    }
+}
+    
+-(void)WLUserRetrieved:(NSNotification*)notif {
+    NSLog(@"User Retrieved");
+    NSLog(@"%@", [notif.userInfo description]);
+    WLDashboardViewController *db = (WLDashboardViewController*)self.mainViews[@"Dashboard"];
+    if (db) {
+        for (id key in notif.userInfo);
+//            [db addUserDetail:(NSString *)key withValue:notif.userInfo[key]];
+    }
+}
+
+-(void)WLCurrentUserRetrieved:(NSNotification*)notif {
+    if (![WL_SESS loggedIn]) {
+        WLBeginViewController *begin = self.mainViews[@"Begin"];
+        if (begin)
+            [begin presentViewController:[[WLMainViewController alloc] init] animated:YES completion:^{}];
+        WL_SESS.loggedIn = YES;
+    } else {
+        WLDashboardViewController *db = self.mainViews[@"Dashboard"];
+        if (db) {
+            for (id key in notif.userInfo)
+                [db addUserDetail:(NSString *)key withValue:notif.userInfo[key]];
+        }
+    }
+}
+
+-(void)WLUserChanged:(NSNotification*)notif {
+    NSLog(@"User Changed");
+    [WL_SESS doCurrentUserInfoRequest];
+}
+    
+-(void)WLLoginSuccess:(NSNotification*)notif {
+    NSLog(@"Login success.");
+    [WL_SESS doCurrentUserInfoRequest];
+}
+    
+-(void)WLLoginFailure:(NSNotification*)notif {
+    NSLog(@"Login failure.");
+    WLBeginViewController *begin = self.mainViews[@"Begin"];
+    if (begin)
+        [begin loginFailed];
 }
 
 #pragma mark - Core Data stack

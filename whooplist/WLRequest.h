@@ -17,10 +17,11 @@
 -(id)initWithRequest:(NSURLRequest *)request andTarget:(id)object andAction:(SEL)action;
 -(void)execute;
 
-@property (nonatomic, retain) NSURLRequest *request;
+@property (nonatomic, retain) NSMutableURLRequest *request;
 @property (nonatomic, retain, readonly) NSHTTPURLResponse *response;
 @property (nonatomic, retain, readonly) NSString *responseBody;
 @property (nonatomic, retain, readonly) id target;
 @property (nonatomic, readonly) SEL action;
+@property (nonatomic) BOOL expectsData;
 
 @end

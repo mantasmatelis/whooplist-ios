@@ -28,6 +28,7 @@
 @property (nonatomic, retain) NSString *username;
 @property (nonatomic, retain) NSString *password;
 @property (nonatomic, retain, readonly) NSString *key;
-@property (nonatomic, retain, readonly) NSString *userID;
+@property (nonatomic, retain, readonly) NSMutableDictionary *userData;
+@property (nonatomic) BOOL loggedIn;
 
 @end
