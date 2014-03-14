@@ -1,0 +1,680 @@
+TPods-AFNetworking
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bnbgaxyoqjstirbfnupjwuymbfhc/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.o /Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-AFNetworking-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/libPods-AFNetworking.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052C59EBA00000000004D63C0
+t1388682938
+s5071808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052C59EBB0000000000A92BC0
+t1388682939
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c0000000052C59EBD0000000000210C80
+t1388682941
+s2165888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000052C59EBE000000000017E0C0
+t1388682942
+s1564864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c0000000052C59EBE00000000001A2270
+t1388682942
+s1712752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052C59EDE00000000000003B5
+t1388682974
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052C59EEA00000000000001A0
+t1388682986
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c0000000052C59F520000000000000AC9
+t1388683090
+s2761
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o
+t1389495137
+s45468
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o
+t1389495137
+s55220
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o
+t1389495137
+s67840
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o
+t1389495137
+s33924
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o
+t1389495138
+s40468
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o
+t1389495138
+s37012
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o
+t1389495138
+s199564
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o
+t1389495138
+s196924
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o
+t1389495138
+s92816
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o
+t1389495138
+s192820
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.o
+t1389495138
+s3428
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking.LinkFileList
+c0000000052D203590000000000000AEF
+t1389495129
+s2799
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o
+t1389495138
+s53024
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o
+t1389495138
+s28308
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o
+t1389495138
+s80848
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o
+t1389495138
+s73564
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o
+t1389495139
+s71412
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o
+t1389495139
+s70816
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bnbgaxyoqjstirbfnupjwuymbfhc/Pods-AFNetworking-prefix.pch.pch
+t1389495135
+s111724
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch.pch
+t1389495135
+s112140
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/libPods-AFNetworking.a
+t2
+s0
+
+N/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+c0000000052D1EC5A0000000000001C80
+t1389489242
+s7296
+
+N/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+c0000000052D1EC5A000000000000298C
+t1389489242
+s10636
+
+N/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+c0000000052D1EC5A0000000000002F2C
+t1389489242
+s12076
+
+N/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+c0000000052D1EC5A000000000000210B
+t1389489242
+s8459
+
+N/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+c0000000052D1EC5A00000000000021F1
+t1389489242
+s8689
+
+N/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+c0000000052D1EC5A000000000000669C
+t1389489242
+s26268
+
+N/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+c0000000052D1EC5A000000000000A53E
+t1389489242
+s42302
+
+N/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+c0000000052D1EC5A0000000000005745
+t1389489242
+s22341
+
+N/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+c0000000052D1EC5A00000000000099CF
+t1389489242
+s39375
+
+N/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+c0000000052D1EC5A000000000000190D
+t1389489242
+s6413
+
+N/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+c0000000052D1EC5A0000000000000F13
+t1389489242
+s3859
+
+N/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+c0000000052D1EC5A000000000000162F
+t1389489242
+s5679
+
+N/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+c0000000052D1EC5A0000000000001DC0
+t1389489242
+s7616
+
+N/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+c0000000052D1EC5A0000000000001C87
+t1389489242
+s7303
+
+N/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+c0000000052D1EC5A0000000000001EAA
+t1389489242
+s7850
+
+N/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+c0000000052D1EC5A00000000000018BB
+t1389489242
+s6331
+
+N/Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-AFNetworking-dummy.m
+c0000000052D1EC5B000000000000008A
+t1389489243
+s138
+
+N/Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-AFNetworking-prefix.pch
+c0000000052D1EC5B0000000000000053
+t1389489243
+s83
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-AFNetworking-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies4834f5d83a82b841^26fc22d93a82b841^---0#1#1#--18"Check dependencies36"DFF81F5B-0C95-40EE-8CD1-1896387B1A6D-
+
+CCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411187935.275928
+e411187937.824974
+r1
+xCompileC
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o
+x/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m289"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb7d346df3a82b841^be32d3e13a82b841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m0000000000000000^4100"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.dia -c /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperation.o36"0A480312-2472-4B05-906D-7223051ADD73-
+bC35E54AA-E5E7-461E-912B-F809B827BFF0
+
+CCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411187935.276335
+e411187937.836083
+r1
+xCompileC
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o
+x/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m303"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler52f246df3a82b841^d00cd6e13a82b841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m0000000000000000^4142"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.dia -c /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPRequestOperationManager.o36"A61E99DF-0A9D-4583-9F9D-89276EF7A253-
+bC35E54AA-E5E7-461E-912B-F809B827BFF0
+
+CCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411187935.276815
+e411187937.851935
+r1
+xCompileC
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o
+x/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m285"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o AFNetworking/AFNetworking/AFHTTPSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler890c47df3a82b841^8b18dae13a82b841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m0000000000000000^4088"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o AFNetworking/AFNetworking/AFHTTPSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.dia -c /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFHTTPSessionManager.o36"14281483-9653-4722-B2A6-49385505F986-
+bC35E54AA-E5E7-461E-912B-F809B827BFF0
+
+CCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411187935.277494
+e411187937.921950
+r1
+xCompileC
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o
+x/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m317"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5d3547df3a82b841^3e05ece13a82b841^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m0000000000000000^4178"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.dia -c /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o36"A6550E03-40B4-4ED3-A1F1-49C9AE70DAC2-
+bC35E54AA-E5E7-461E-912B-F809B827BFF0
+
+CCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411187937.825291
+e411187938.232714
+r1
+xCompileC
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o
+x/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m301"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5e63d3e13a82b841^a3953be23a82b841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m0000000000000000^4136"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.dia -c /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFNetworkReachabilityManager.o36"D56DD584-CF45-4079-83AD-16F7764B4677-
+bC35E54AA-E5E7-461E-912B-F809B827BFF0
+
+CCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411187937.825322
+e411187938.355753
+r1
+xCompileC
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o
+x/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m277"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o AFNetworking/AFNetworking/AFSecurityPolicy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5665d3e13a82b841^b5155be23a82b841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m0000000000000000^4064"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o AFNetworking/AFNetworking/AFSecurityPolicy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.dia -c /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFSecurityPolicy.o36"65B18717-16B8-4EFF-86C5-2514E0E2D3CF-
+bC35E54AA-E5E7-461E-912B-F809B827BFF0
+
+CCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411187937.836394
+e411187938.358174
+r1
+xCompileC
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o
+x/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m293"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o AFNetworking/AFNetworking/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdf37d6e13a82b841^d9b35be23a82b841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m0000000000000000^4112"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o AFNetworking/AFNetworking/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.dia -c /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLConnectionOperation.o36"D287DF67-6F48-4116-BBDF-B3D3B27E57D9-
+bC35E54AA-E5E7-461E-912B-F809B827BFF0
+
+CCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411187937.852259
+e411187938.403843
+r1
+xCompileC
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o
+x/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m295"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o AFNetworking/AFNetworking/AFURLRequestSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5457dae13a82b841^636267e23a82b841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m0000000000000000^4118"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o AFNetworking/AFNetworking/AFURLRequestSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.dia -c /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLRequestSerialization.o36"EA8107DF-C53C-4E02-B958-B3B91F2E2640-
+bC35E54AA-E5E7-461E-912B-F809B827BFF0
+
+CCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411187937.922546
+e411187938.402093
+r1
+xCompileC
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o
+x/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m297"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o AFNetworking/AFNetworking/AFURLResponseSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6265ece13a82b841^73f266e23a82b841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m0000000000000000^4124"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o AFNetworking/AFNetworking/AFURLResponseSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.dia -c /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLResponseSerialization.o36"5630B905-87FE-4A86-B47C-2096DF23A9D4-
+bC35E54AA-E5E7-461E-912B-F809B827BFF0
+
+CCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411187938.233041
+e411187938.573088
+r1
+xCompileC
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o
+x/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m283"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o AFNetworking/AFNetworking/AFURLSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerccd13be23a82b841^b7b892e23a82b841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m0000000000000000^4082"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o AFNetworking/AFNetworking/AFURLSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.dia -c /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/AFURLSessionManager.o36"3B990740-6B0F-4185-8DB2-5F57F8607B6A-
+bC35E54AA-E5E7-461E-912B-F809B827BFF0
+
+CCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.o /Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-AFNetworking-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411187938.356122
+e411187938.657730
+r1
+xCompileC
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.o
+x/Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-AFNetworking-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-AFNetworking-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-AFNetworking-dummy.m265"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.o Pods-AFNetworking-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler05515be23a82b841^8864a8e23a82b841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-AFNetworking-dummy.m0000000000000000^4043"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.o Pods-AFNetworking-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bnbgaxyoqjstirbfnupjwuymbfhc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.dia -c /Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-AFNetworking-dummy.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking-dummy.o36"C8E1A952-AEED-4E13-B7DD-2D221ABE3892-
+bC35E54AA-E5E7-461E-912B-F809B827BFF0
+
+CCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411187938.358445
+e411187938.920360
+r1
+xCompileC
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o
+x/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m323"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler12dd5be23a82b841^679bebe23a82b841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m0000000000000000^4196"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.dia -c /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIActivityIndicatorView+AFNetworking.o36"20ED7077-BE54-4D05-9E7E-4157D14B57C7-
+bC35E54AA-E5E7-461E-912B-F809B827BFF0
+
+CCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411187938.402501
+e411187938.921610
+r1
+xCompileC
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o
+x/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m299"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5b2667e23a82b841^4eeeebe23a82b841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m0000000000000000^4124"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.dia -c /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIAlertView+AFNetworking.o36"92D6D1F4-B5A7-4C5E-A9F3-D7B9880EA82F-
+bC35E54AA-E5E7-461E-912B-F809B827BFF0
+
+CCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411187938.404063
+e411187938.953219
+r1
+xCompileC
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o
+x/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m293"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler268b67e23a82b841^6c06f4e23a82b841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m0000000000000000^4106"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.dia -c /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIButton+AFNetworking.o36"A27F5382-D0B7-4A03-90AE-84F88FC92270-
+bC35E54AA-E5E7-461E-912B-F809B827BFF0
+
+CCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411187938.573411
+e411187939.011402
+r1
+xCompileC
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o
+x/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m299"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler60e792e23a82b841^c4eb02e33a82b841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m0000000000000000^4124"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.dia -c /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIImageView+AFNetworking.o36"374C23EC-8896-4B89-B468-2696452F7FA5-
+bC35E54AA-E5E7-461E-912B-F809B827BFF0
+
+CCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411187938.658103
+e411187939.023609
+r1
+xCompileC
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o
+x/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m305"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1ba0a8e23a82b841^a60e06e33a82b841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m0000000000000000^4142"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.dia -c /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIProgressView+AFNetworking.o36"3FDE7BBE-FDD0-44D5-BBDE-CB560E20510F-
+bC35E54AA-E5E7-461E-912B-F809B827BFF0
+
+CCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411187938.920725
+e411187939.012641
+r1
+xCompileC
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o
+x/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m295"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler55ddebe23a82b841^643f03e33a82b841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m0000000000000000^4112"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.dia -c /Users/dev/GitHub/whooplist-ios/Current/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/UIWebView+AFNetworking.o36"3E50FB1B-0070-40D9-B6CE-48C26B29EB7C-
+bC35E54AA-E5E7-461E-912B-F809B827BFF0
+
+CLibtool /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/libPods-AFNetworking.a normal i386
+s411187939.025178
+e411187939.686770
+r1
+xLibtool
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/libPods-AFNetworking.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Libtool /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/libPods-AFNetworking.a normal i386119"Libtool /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/libPods-AFNetworking.a normal i386408606e33a82b841^63d2afe33a82b841^---0#0#1#--1162"Libtool /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/libPods-AFNetworking.a normal i386    cd /Users/dev/GitHub/whooplist-ios/Current/Pods    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -filelist /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Objects-normal/i386/Pods-AFNetworking.LinkFileList -framework CoreGraphics -framework Foundation -framework MobileCoreServices -framework Security -framework SystemConfiguration -o /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/libPods-AFNetworking.a36"877ADF45-DF87-478A-9947-7C87941A79C7-
+bC35E54AA-E5E7-461E-912B-F809B827BFF0
+
+CProcessPCH /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bnbgaxyoqjstirbfnupjwuymbfhc/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411187929.135032
+e411187935.274531
+r1
+xProcessPCH
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bnbgaxyoqjstirbfnupjwuymbfhc/Pods-AFNetworking-prefix.pch.pch
+xPods-AFNetworking-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-AFNetworking-prefix.pch
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-AFNetworking-prefix.pch273"ProcessPCH /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bnbgaxyoqjstirbfnupjwuymbfhc/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler06be22d93a82b841^80f44ddf3a82b841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-AFNetworking-prefix.pch0000000000000000^3895"ProcessPCH /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bnbgaxyoqjstirbfnupjwuymbfhc/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bnbgaxyoqjstirbfnupjwuymbfhc/Pods-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bnbgaxyoqjstirbfnupjwuymbfhc/Pods-AFNetworking-prefix.pch.d -c /Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-AFNetworking-prefix.pch -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-bnbgaxyoqjstirbfnupjwuymbfhc/Pods-AFNetworking-prefix.pch.pch36"DDAFD06E-FC8E-4F71-A09F-A652C3CD2730-
+bC35E54AA-E5E7-461E-912B-F809B827BFF0
+
+CProcessPCH /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411187929.134482
+e411187935.262895
+r1
+xProcessPCH
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch.pch
+xPods-AFNetworking-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-AFNetworking-prefix.pch
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-AFNetworking-prefix.pch273"ProcessPCH /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9d9f22d93a82b841^85ef4ddf3a82b841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-AFNetworking-prefix.pch0000000000000000^3906"ProcessPCH /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders -I/Users/dev/GitHub/whooplist-ios/Current/Pods/BuildHeaders/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AFNetworking.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -fobjc-arc --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch.d -c /Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-AFNetworking-prefix.pch -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-cmvknojwlskutdgttantooebovsi/Pods-AFNetworking-prefix.pch.pch36"D9E937FC-2A71-4FC1-846E-E3DB4856514A-
+bC35E54AA-E5E7-461E-912B-F809B827BFF0
+
+CProcessPCH /Users/dev/Library/Developer/Xcode/DerivedData/whooplist-ewjusxlbfrptfkavhpaanowlilvl/Index/PrecompiledHeaders/Pods-AFNetworking-prefix-bjcjgbadmpjfkxdcqlvdckpyalro_ast/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/dev/Library/Developer/Xcode/DerivedData/whooplist-ewjusxlbfrptfkavhpaanowlilvl/Index/PrecompiledHeaders/Pods-AFNetworking-prefix-fugwiklzgzmgdgdmwkzdldlhjuxu_ast/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

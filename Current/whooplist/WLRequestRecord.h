@@ -15,8 +15,9 @@
 @property (nonatomic, retain) WLRequestType *requestType;
 @property (nonatomic, retain) id response;
 @property (nonatomic, retain) WLRequestDatePair *requestDatePair;
+@property (nonatomic, retain) NSString *URL;
 
--(id)initWithRequestType:(WLRequestType *)requestType andResponse:(id)response andRequestDatePair:(WLRequestDatePair *)requestDatePair;
-+(WLRequestRecord*)recordWithRequestType:(WLRequestType*)requestType andResponse:(id)response andRequestDatePair:(WLRequestDatePair *)requestDatePair;
+-(id)initWithRequestType:(WLRequestType *)requestType andResponse:(id)response andRequestDatePair:(WLRequestDatePair *)requestDatePair andURL:(NSString *)URL;
++(WLRequestRecord*)recordWithRequestType:(WLRequestType*)requestType andResponse:(id)response andRequestDatePair:(WLRequestDatePair *)requestDatePair andURL:(NSString *)URL;
 
 @end

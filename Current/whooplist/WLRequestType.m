@@ -41,7 +41,8 @@ static NSArray *allTypes;
                  /* User List Routes */
                  [[WLRequestType alloc] initWithName:@"GetUserLists" andRoute:@"/users/%UserId%/lists" andMethod:@"GET" andKeyRequired:NO],
                  [[WLRequestType alloc] initWithName:@"GetUserList" andRoute:@"/users/%UserId%/lists/%ListId%" andMethod:@"GET" andKeyRequired:NO],
-                 [[WLRequestType alloc] initWithName:@"CreateUserList" andRoute:@"/users/lists/%ListId%" andMethod:@"PUT" andKeyRequired:NO],
+                 [[WLRequestType alloc] initWithName:@"CreateUserList" andRoute:@"/users/lists/%ListId%" andMethod:@"POST" andKeyRequired:YES],
+                 [[WLRequestType alloc] initWithName:@"AppendUserList" andRoute:@"/users/lists/%ListId%/append/%PlaceId%" andMethod:@"POST" andKeyRequired:YES],
                  
                  [[WLRequestType alloc] initWithName:@"GetUserFriends" andRoute:@"/users/%UserId%/friends" andMethod:@"GET" andKeyRequired:NO],
                  [[WLRequestType alloc] initWithName:@"AddUserFriend" andRoute:@"/users/friends/%OtherId%" andMethod:@"PUT" andKeyRequired:YES],
@@ -58,12 +59,13 @@ static NSArray *allTypes;
                  [[WLRequestType alloc] initWithName:@"GetWlCoordinate" andRoute:@"/whooplist/%ListId%/coordinate/%Lat%/%Long%/%Radius%/%Page%" andMethod:@"GET" andKeyRequired:NO],
                  
                  /* Newsfeed Routes */
-                 [[WLRequestType alloc] initWithName:@"GetNewsfeedOlder" andRoute:@"/feed/older/%Lat%/%Long%/%Radius%/%EarliestId%" andMethod:@"GET" andKeyRequired:NO],
-                 [[WLRequestType alloc] initWithName:@"GetNewsfeedUpdate" andRoute:@"/feed/%Lat%/%Long%/%Radius%/%EarliestId%" andMethod:@"GET" andKeyRequired:NO],
-                 [[WLRequestType alloc] initWithName:@"GetNewsfeedNew" andRoute:@"/feed/%Lat%/%Long%/%Radius%" andMethod:@"GET" andKeyRequired:NO],
+                 [[WLRequestType alloc] initWithName:@"GetNewsfeedOlder" andRoute:@"/feed/older/%Lat%/%Long%/%Radius%/%EarliestId%" andMethod:@"GET" andKeyRequired:YES],
+                 [[WLRequestType alloc] initWithName:@"GetNewsfeedUpdate" andRoute:@"/feed/%Lat%/%Long%/%Radius%/%EarliestId%" andMethod:@"GET" andKeyRequired:YES],
+                 [[WLRequestType alloc] initWithName:@"GetNewsfeedNew" andRoute:@"/feed/%Lat%/%Long%/%Radius%" andMethod:@"GET" andKeyRequired:YES],
                  
                  /* Place Routes */
-                 [[WLRequestType alloc] initWithName:@"SearchPlace" andRoute:@"/places/search/%ListId%/%Lat%/%Long%/%Radius%/%Page%/%SearchString%" andMethod:@"GET" andKeyRequired:NO],
+                 [[WLRequestType alloc] initWithName:@"SearchPlaceString" andRoute:@"/places/search/%ListId%/%Lat%/%Long%/%Radius%/%Page%/%SearchString%" andMethod:@"GET" andKeyRequired:NO],
+                 [[WLRequestType alloc] initWithName:@"SearchPlace" andRoute:@"/places/search/%ListId%/%Lat%/%Long%/%Radius%/%Page%" andMethod:@"GET" andKeyRequired:NO],
                  [[WLRequestType alloc] initWithName:@"GetPlace" andRoute:@"/places/%PlaceId%" andMethod:@"GET" andKeyRequired:NO]
                  
                  ];
@@ -95,6 +97,30 @@ static NSArray *allTypes;
 
 +(WLRequestType *)getUserFriendsRequestType {
     return [WLRequestType requestTypeWithName:@"GetUserFriends"];
+}
+
++(WLRequestType *)deleteUserFriendRequestType {
+    return [WLRequestType requestTypeWithName:@"DeleteUserFriend"];
+}
+
++(WLRequestType *)getListTypesRequestType {
+    return [WLRequestType requestTypeWithName:@"GetListTypes"];
+}
+
++(WLRequestType *)searchPlaceRequestType {
+    return [WLRequestType requestTypeWithName:@"SearchPlace"];
+}
+
++(WLRequestType *)getUserListRequestType {
+    return [WLRequestType requestTypeWithName:@"GetUserList"];
+}
+
++(WLRequestType *)appendUserListRequestType {
+    return [WLRequestType requestTypeWithName:@"AppendUserList"];
+}
+
++(WLRequestType *)createUserListRequestType {
+    return [WLRequestType requestTypeWithName:@"CreateUserList"];
 }
 
 -(NSString *)description {

@@ -2,25 +2,39 @@
 //  WLAppDelegate.m
 //  whooplist
 //
-//  Created by Dev Chakraborty on 1/11/2014.
+//  Created by Dev Chakraborty on 2/2/2014.
 //  Copyright (c) 2014 Whooplist. All rights reserved.
 //
 
 #import "WLAppDelegate.h"
+#define VC(A)   ((UIViewController*)_viewControllers[A])
 
 @implementation WLAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+    self.window.backgroundColor = [UIColor whiteColor];
+    
     _session = [WLSession session];
     
-    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-    // Override point for customization after application launch.
-    self.window.backgroundColor = [UIColor whiteColor];
-    self.window.rootViewController = [[WLMainViewController alloc] init];
-    [self.window makeKeyAndVisible];
+    _locationManager = [[CLLocationManager alloc] init];
+    _locationManager.delegate = self;
+    _locationManager.desiredAccuracy = kCLLocationAccuracyKilometer;
+    _locationManager.distanceFilter = 500;
+    [_locationManager startUpdatingLocation];
     
+    _viewControllers = [[NSMutableDictionary alloc] init];
+    (void)[[WLLoginViewController alloc] init];
+    [self.window setRootViewController:VC(@"Login")];
+    
+    [self.window makeKeyAndVisible];
     return YES;
+}
+
+-(void)locationManager:(CLLocationManager *)manager didUpdateLocations:(NSArray *)locations {
+    _lastLocation = [locations lastObject];
+    NSLog(@"Location: %+.6f, %+.6f", _lastLocation.coordinate.latitude, _lastLocation.coordinate.longitude);
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application

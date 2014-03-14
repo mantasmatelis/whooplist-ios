@@ -32,15 +32,15 @@ WLSession *mainSession;
         mParams = [[NSMutableDictionary alloc] init];
     
     NSString *reqURL = requestType.route;
-    for (NSString *key in mParams) {
+    for (NSString *key in params) {
         NSString *variable = NSStringFormat(@"%%%@%%", key);
         if ([reqURL rangeOfString:variable].location != NSNotFound) {
-            reqURL = [requestType.route stringByReplacingOccurrencesOfString:variable withString:[mParams valueForKey:key]];
+            reqURL = [reqURL stringByReplacingOccurrencesOfString:variable withString:[mParams valueForKey:key]];
             [mParams removeObjectForKey:key];
         }
     }
     
-    NSLog(@"%@", reqURL);
+//    NSLog(@"%@", reqURL);
     
     NSData *data;
     
@@ -56,7 +56,7 @@ WLSession *mainSession;
     if (data)
         [req setHTTPBody:data];
     
-    NSLog(@"%@", [[NSString alloc] initWithData:[req HTTPBody] encoding:NSUTF8StringEncoding]);
+//    NSLog(@"%@", [[NSString alloc] initWithData:[req HTTPBody] encoding:NSUTF8StringEncoding]);
     
     NSDate *requestTime = [NSDate date];
     
@@ -66,7 +66,7 @@ WLSession *mainSession;
             return;
         }
         
-        NSLog(@"%@", [[NSString alloc] initWithData:data encoding:NSUTF8StringEncoding]);
+//        NSLog(@"%@", [[NSString alloc] initWithData:data encoding:NSUTF8StringEncoding]);
         
         NSError *jsonErr;
         id retObj;
@@ -75,11 +75,11 @@ WLSession *mainSession;
         
         NSDate *responseTime = [NSDate date];
         
-        WLRequestRecord *record = [WLRequestRecord recordWithRequestType:requestType andResponse:retObj andRequestDatePair:[WLRequestDatePair requestDatePairWithRequestTime:requestTime andResponseTime:responseTime]];
+        WLRequestRecord *record = [WLRequestRecord recordWithRequestType:requestType andResponse:retObj andRequestDatePair:[WLRequestDatePair requestDatePairWithRequestTime:requestTime andResponseTime:responseTime] andURL:reqURL];
         
         [_sessionCache pushRequestRecord:record];
         
-        NSLog(@"%@", [_sessionCache description]);
+//        NSLog(@"%@", [_sessionCache description]);
         if ([retObj isKindOfClass:[NSNumber class]] && [retObj integerValue] != 200) {
             for (id<WLSessionDelegate> object in _delegates)
                 if ([(NSObject*)object respondsToSelector:@selector(WLSession:didProcessRequestFailure:)])
@@ -105,6 +105,13 @@ WLSession *mainSession;
     if (!loginRecord)
         return nil;
     return [loginRecord.response valueForKey:@"Key"];
+}
+
+-(NSNumber *)userID {
+    WLRequestRecord *loginRecord = [_sessionCache lastRequestRecordWithName:@"LoginUser"];
+    if (!loginRecord)
+        return nil;
+    return [loginRecord.response valueForKey:@"UserId"];
 }
 
 @end

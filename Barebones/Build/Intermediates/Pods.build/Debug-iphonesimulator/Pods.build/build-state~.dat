@@ -1,0 +1,88 @@
+TPods
+v6
+r1
+cCheck dependencies
+cCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o /Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/libPods.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052C59EBB0000000000A92BC0
+t1388682939
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052C59EDE00000000000003B5
+t1388682974
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052C59EEA00000000000001A0
+t1388682986
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c0000000052C59F520000000000000AC9
+t1388683090
+s2761
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o
+t1389495141
+s3324
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods.LinkFileList
+c0000000052D203630000000000000089
+t1389495139
+s137
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/libPods-AFNetworking.a
+c0000000052D20363000000000014BBB0
+t1389495139
+s1358768
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/libPods.a
+t2
+s0
+
+N/Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-dummy.m
+c0000000052D1EC5B0000000000000070
+t1389489243
+s112
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese52abae33a82b841^3468cce33a82b841^---0#1#1#--18"Check dependencies36"77EF4AC0-E966-43C5-B12D-FA65E8C08DF5-
+
+CCompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o /Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411187939.799397
+e411187941.493179
+r1
+xCompileC
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o
+x/Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-dummy.m226"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf7cacce33a82b841^d5417ee53a82b841^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-dummy.m0000000000000000^3644"CompileC /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Pods/Headers -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Pods/Headers/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -isystem/Users/dev/GitHub/whooplist-ios/Current/Pods/Pods/Headers -isystem/Users/dev/GitHub/whooplist-ios/Current/Pods/Pods/Headers/AFNetworking -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.dia -c /Users/dev/GitHub/whooplist-ios/Current/Pods/Pods-dummy.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o36"545045D9-F073-4A9E-ABB0-48298AC8525C-
+b8F524022-68E4-4A6A-955A-CA094A07C4EF
+
+CLibtool /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/libPods.a normal i386
+s411187941.493836
+e411187942.393122
+r1
+xLibtool
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/libPods.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Libtool /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/libPods.a normal i386106"Libtool /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/libPods.a normal i386a67e7ee53a82b841^44a664e63a82b841^---0#0#1#--1025"Libtool /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/libPods.a normal i386    cd /Users/dev/GitHub/whooplist-ios/Current/Pods    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -filelist /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods.LinkFileList -framework Foundation -lPods-AFNetworking -o /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/libPods.a36"F286A07D-EBC5-4069-960F-E0D77A75CF0B-
+b8F524022-68E4-4A6A-955A-CA094A07C4EF
+

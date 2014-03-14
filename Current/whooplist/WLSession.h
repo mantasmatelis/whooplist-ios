@@ -6,6 +6,9 @@
 //  Copyright (c) 2014 Whooplist. All rights reserved.
 //
 
+#ifndef whooplist_WLSession_h
+#define whooplist_WLSession_h
+
 #import <Foundation/Foundation.h>
 #import "WLRequestType.h"
 #import "WLSessionDelegate.h"
@@ -18,7 +21,12 @@
 -(void)subscribeToSessionEvents:(id<WLSessionDelegate>) object;
 -(void)unsubscribeFromSessionEvents:(id<WLSessionDelegate>) object;
 
+-(NSString *)key;
+-(NSNumber *)userID;
+
 @property (nonatomic, retain, readonly) NSMutableArray *delegates;
 @property (nonatomic, retain) WLSessionCache *sessionCache;
 
 @end
+
+#endif

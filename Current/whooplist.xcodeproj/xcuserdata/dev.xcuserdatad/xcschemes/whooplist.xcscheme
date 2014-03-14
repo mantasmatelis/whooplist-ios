@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D728B0E4188222CC000AF436"
+               BlueprintIdentifier = "D7D648D6189F048400BE1ABD"
                BuildableName = "whooplist.app"
                BlueprintName = "whooplist"
                ReferencedContainer = "container:whooplist.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D728B0FF188222CD000AF436"
+               BlueprintIdentifier = "D7D648F1189F048400BE1ABD"
                BuildableName = "whooplistTests.xctest"
                BlueprintName = "whooplistTests"
                ReferencedContainer = "container:whooplist.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D728B0E4188222CC000AF436"
+            BlueprintIdentifier = "D7D648D6189F048400BE1ABD"
             BuildableName = "whooplist.app"
             BlueprintName = "whooplist"
             ReferencedContainer = "container:whooplist.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D728B0E4188222CC000AF436"
+            BlueprintIdentifier = "D7D648D6189F048400BE1ABD"
             BuildableName = "whooplist.app"
             BlueprintName = "whooplist"
             ReferencedContainer = "container:whooplist.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D728B0E4188222CC000AF436"
+            BlueprintIdentifier = "D7D648D6189F048400BE1ABD"
             BuildableName = "whooplist.app"
             BlueprintName = "whooplist"
             ReferencedContainer = "container:whooplist.xcodeproj">

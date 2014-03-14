@@ -1,0 +1,1348 @@
+Twhooplist
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch.pch whooplist/whooplist-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestRecord.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestRecord.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLFriendsViewController.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestType.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestType.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRegisterViewController.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLSession.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLSessionCache.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestDatePair.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestDatePair.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/main.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLProfileViewController.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLAppDelegate.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLMainViewController.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLMainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLLogViewController.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLogViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLLoginViewController.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/whooplist normal i386
+cCopyStringsFile /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/en.lproj/InfoPlist.strings whooplist/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app /Users/dev/GitHub/whooplist-ios/Current/whooplist/Images.xcassets
+cProcessInfoPlistFile /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/Info.plist /Users/dev/GitHub/whooplist-ios/Current/whooplist/whooplist-Info.plist
+cGenerateDSYMFile /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app.dSYM /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/whooplist
+cTouch /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052C59EDE00000000000003B5
+t1388682974
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052C59EEA00000000000001A0
+t1388682986
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000052C59EED00000000005838D0
+t1388682989
+s5781712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000052C59EEE00000000005B82A0
+t1388682990
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052C59EEE0000000000445870
+t1388682990
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c0000000052C59EEE0000000000355050
+t1388682990
+s3493968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000052C59EEE00000000002F6810
+t1388682990
+s3106832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000052C59EEF000000000004B000
+t1388682991
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052C59EF0000000000088C680
+t1388682992
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c0000000052C59EF300000000001BA530
+t1388682995
+s1811760
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000052C59EF40000000000037620
+t1388682996
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000052C59EF400000000004848F0
+t1388682996
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000052C59EF400000000001290B0
+t1388682996
+s1216688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c0000000052C59EF600000000001081B0
+t1388682998
+s1081776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052C59EF70000000001DB9910
+t1388682999
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000052C59F0C00000000002B9F20
+t1388683020
+s2858784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c0000000052C59F120000000000002338
+t1388683026
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c0000000052C59F13000000000008D300
+t1388683027
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c0000000052C59F13000000000038ACB0
+t1388683027
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c0000000052B4ACA600000000000141F0
+t1387572390
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c0000000052C59F130000000000013500
+t1388683027
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c0000000052C59F130000000000033BA0
+t1388683027
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000052C59F13000000000001CFB0
+t1388683027
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000052C59F13000000000001B2B0
+t1388683027
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c0000000052C59F1300000000000632B0
+t1388683027
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c0000000052C59F130000000000008880
+t1388683027
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c0000000052C59F130000000000015080
+t1388683027
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c0000000052C59F1300000000000230E0
+t1388683027
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000052C59F13000000000000E380
+t1388683027
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c0000000052C59F130000000000087200
+t1388683027
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c0000000052C59F1300000000000171A0
+t1388683027
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c0000000052C59F130000000000039C10
+t1388683027
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000052C59F13000000000000B0B0
+t1388683027
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c0000000052C59F130000000000167FE0
+t1388683027
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c0000000052C59F1300000000000106A0
+t1388683027
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000052C59F13000000000001CE40
+t1388683027
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c0000000052C59F130000000000071040
+t1388683027
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000052C59F130000000000067A10
+t1388683027
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000052C59F13000000000001BAD0
+t1388683027
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c0000000052C59F130000000000088BA0
+t1388683027
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c0000000052C59F520000000000000AC9
+t1388683090
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c0000000052C59F520000000000005004
+t1388683090
+s20484
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch.pch
+t1390000888
+s115892
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-gavjdlnnvjgceefhiccyzgakacoo/whooplist-Prefix.pch.pch
+t1389498642
+s113984
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-hhwvxwzvierncvawezokxeffrgux/whooplist-Prefix.pch.pch
+t1389495143
+s114324
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/NSString+Common.o
+c0000000052D9BAF90000000000002B2C
+t1390000889
+s11052
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/UIViewController+Keyboard.o
+c0000000052D9C056000000000000A28C
+t1390002262
+s41612
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLAppDelegate.o
+t1390011191
+s68488
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLFriendsViewController.o
+t1390011191
+s55472
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLLogViewController.o
+t1391380665
+s51160
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLLoginViewController.o
+t1390012457
+s70084
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLMainViewController.o
+t1390012329
+s69888
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLProfileViewController.o
+t1390011191
+s49940
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRegisterViewController.o
+t1390012457
+s76684
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestDatePair.o
+t1390000889
+s10396
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestRecord.o
+t1390008966
+s16244
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestType.o
+t1390008966
+s27896
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLSession.o
+t1390009560
+s29160
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLSessionCache.o
+t1390008966
+s14312
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/main.o
+t1390011191
+s3656
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/whooplist.LinkFileList
+c0000000052D9D6F000000000000007CC
+t1390008048
+s1996
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Script-3FFEAE7828084DD491A03344.sh
+c0000000052D203660000000000000103
+t1389495142
+s259
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Script-8D72BC4F493542A1B50B5ABD.sh
+c0000000052D20366000000000000002F
+t1389495142
+s47
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/assetcatalog_dependencies.txt
+t1389495176
+s385
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/assetcatalog_generated_info.plist
+t1389495176
+s525
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/libPods.a
+c0000000052D20366000000000014C950
+t1389495142
+s1362256
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app
+t1391380668
+s272
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app.dSYM
+t1390012458
+s102
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/Info.plist
+t1389495176
+s986
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/PkgInfo
+t1389495176
+s8
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/en.lproj/InfoPlist.strings
+t1389495150
+s42
+
+N/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/whooplist
+t1391380668
+s120172
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/Images.xcassets
+c0000000052D1EB4C0000000000000088
+t1389488972
+s136
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/NSString+Common.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/NSString+Common.m
+c0000000052D2054300000000000007C4
+t1389495619
+s1988
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/UIViewController+Keyboard.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/UIViewController+Keyboard.m
+c0000000052D9C05500000000000001D2
+t1390002261
+s466
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.h
+c0000000052D9AB2C0000000000000192
+t1389996844
+s402
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.m
+c0000000052D9B5120000000000000904
+t1389999378
+s2308
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.h
+c0000000052D9DA6B000000000000013F
+t1390008939
+s319
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.m
+c0000000052D9E1E000000000000008BC
+t1390010848
+s2236
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLGlobal.h
+c0000000052D9AB6800000000000002E8
+t1389996904
+s744
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLogViewController.h
+c0000000052D9DBEB00000000000001C4
+t1390009323
+s452
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLogViewController.m
+c0000000052D9EF6D00000000000003A8
+t1390014317
+s936
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.h
+c0000000052D9C0880000000000000148
+t1390002312
+s328
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.m
+c0000000052D9E8290000000000000C4E
+t1390012457
+s3150
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLMainViewController.h
+c0000000052D9D50900000000000001C9
+t1390007561
+s457
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLMainViewController.m
+c0000000052D9E7A60000000000001259
+t1390012326
+s4697
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.h
+c0000000052D9D6640000000000000140
+t1390007908
+s320
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.m
+c0000000052D9D6D1000000000000051F
+t1390008017
+s1311
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.h
+c0000000052D9E232000000000000011F
+t1390010930
+s287
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.m
+c0000000052D9E81D000000000000134E
+t1390012445
+s4942
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestDatePair.h
+c0000000052D99C6A0000000000000218
+t1389993066
+s536
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestDatePair.m
+c0000000052D99F9F0000000000000292
+t1389993887
+s658
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestRecord.h
+c0000000052D9CE0B00000000000002E1
+t1390005771
+s737
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestRecord.m
+c0000000052D9A4D30000000000000600
+t1389995219
+s1536
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestType.h
+c0000000052D9DA81000000000000031C
+t1390008961
+s796
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestType.m
+c0000000052D9D99E000000000000159C
+t1390008734
+s5532
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.h
+c0000000052D9B9460000000000000296
+t1390000454
+s662
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.m
+c0000000052D9DCD80000000000000F6C
+t1390009560
+s3948
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionCache.h
+c0000000052D9A65500000000000001DA
+t1389995605
+s474
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionCache.m
+c0000000052D9CC36000000000000058D
+t1390005302
+s1421
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionDelegate.h
+c0000000052D9C4E800000000000001C3
+t1390003432
+s451
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/en.lproj/InfoPlist.strings
+c0000000052D1EB4C000000000000002D
+t1389488972
+s45
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/main.m
+c0000000052D1EB4C000000000000015B
+t1389488972
+s347
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/whooplist-Info.plist
+c0000000052D1EB4C0000000000000492
+t1389488972
+s1170
+
+N/Users/dev/GitHub/whooplist-ios/Current/whooplist/whooplist-Prefix.pch
+c0000000052D9B92E0000000000000171
+t1390000430
+s369
+
+N/usr/lib/libSystem.B.dylib
+c0000000052B4AC91000000000000E6D0
+t1387572369
+s59088
+
+N/usr/lib/system/libcache.dylib
+c0000000052B4ACA60000000000012A00
+t1387572390
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052B4AC7E000000000002E320
+t1387572350
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000052B4AC910000000000021860
+t1387572369
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000052B4ACA5000000000001B620
+t1387572389
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c0000000052B4ACA500000000000BD920
+t1387572389
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c0000000052B4ACA600000000000141F0
+t1387572390
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000052B4ACA6000000000000A120
+t1387572390
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000052B4ACA6000000000001D550
+t1387572390
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c0000000052B4ACA50000000000014EE0
+t1387572389
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c0000000052B4ACA90000000000010380
+t1387572393
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052B4ACA9000000000000C4C0
+t1387572393
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c0000000052B4ACA600000000000357A0
+t1387572390
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052B4ACA6000000000000C070
+t1387572390
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000052B4AC910000000000168C00
+t1387572369
+s1477632
+
+N/usr/lib/system/libsystem_configuration.dylib
+c0000000052B4ACA50000000000010630
+t1387572389
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000052B4ACA7000000000001DF10
+t1387572391
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000052B4AC910000000000075B00
+t1387572369
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000052B4AC91000000000007CC70
+t1387572369
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000052B4AC9100000000000766C0
+t1387572369
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c0000000052B4ACA60000000000044DC0
+t1387572390
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000052B4AC910000000000021FA0
+t1387572369
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000052B4ACA6000000000002D900
+t1387572390
+s186624
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052B4ACA6000000000001E570
+t1387572390
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000052B4AC9B000000000000CC70
+t1387572379
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000052B4AC9E000000000000C3F0
+t1387572382
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c0000000052B4ACA700000000000199F0
+t1387572391
+s104944
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/whooplist/NSString+Common.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/whooplist/UIViewController+Keyboard.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLogViewController.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLMainViewController.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestDatePair.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestRecord.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestType.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionCache.m
+r0
+
+CBuild AST from /Users/dev/GitHub/whooplist-ios/Current/whooplist/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb2ba7d36009fb841^9336b136009fb841^---0#1#1#--18"Check dependencies36"A9EDD991-631E-447C-B4A4-EC4BC014B1B1-
+
+CCompileAssetCatalog /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app /Users/dev/GitHub/whooplist-ios/Current/whooplist/Images.xcassets
+s411187950.355731
+e411187976.091634
+r1
+xCompileAssetCatalog
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app
+x/Users/dev/GitHub/whooplist-ios/Current/whooplist/Images.xcassets
+o2014-01-11 21:52:55.393 IBCocoaTouchImageCatalogTool[2361:303] CFPreferences: user home directory at file:///Users/dev/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/LaunchImage-700-568h@2x.png
+o/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/Assets.car
+o/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CompileAssetCatalog Build/Products/Debug-iphonesimulator/whooplist.app whooplist/Images.xcassets96"CompileAssetCatalog Build/Products/Debug-iphonesimulator/whooplist.app whooplist/Images.xcassetsda205bee3a82b841^c97517083b82b841^-634"2014-01-11 21:52:55.393 IBCocoaTouchImageCatalogTool[2361:303] CFPreferences: user home directory at file:///Users/dev/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/LaunchImage-700-568h@2x.png/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/Assets.car/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@73"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/Images.xcassets/0000000000000000^1174"CompileAssetCatalog Build/Products/Debug-iphonesimulator/whooplist.app whooplist/Images.xcassets    cd /Users/dev/GitHub/whooplist-ios/Current    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app /Users/dev/GitHub/whooplist-ios/Current/whooplist/Images.xcassets36"CEE931FC-B262-47A0-860D-EFB7A2612A49-
+bC4487B0E-F1D0-425B-B5DC-AAB09E886CC9
+
+CCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/NSString+Common.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/NSString+Common.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411693689.408985
+e411693689.509972
+r1
+xCompileC
+xBuild/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/NSString+Common.o
+x/Users/dev/GitHub/whooplist-ios/Current/whooplist/NSString+Common.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/NSString+Common.m
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/NSString+Common.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/dev/GitHub/whooplist-ios/Current/whooplist/NSString+Common.m216"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/NSString+Common.o whooplist/NSString+Common.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0bed6879f289b841^978d8279f289b841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/NSString+Common.m0000000000000000^3731"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/NSString+Common.o whooplist/NSString+Common.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/NSString+Common.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/NSString+Common.dia -c /Users/dev/GitHub/whooplist-ios/Current/whooplist/NSString+Common.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/NSString+Common.o36"E02A3DBC-F1C8-4573-8F58-A5F45AF7F091-
+bD650AE74-2103-440B-B2DC-6B0E6DC10D38
+
+CCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/UIViewController+Keyboard.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/UIViewController+Keyboard.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411695061.330248
+e411695062.688511
+r1
+xCompileC
+xBuild/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/UIViewController+Keyboard.o
+x/Users/dev/GitHub/whooplist-ios/Current/whooplist/UIViewController+Keyboard.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/UIViewController+Keyboard.m
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/UIViewController+Keyboard.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/dev/GitHub/whooplist-ios/Current/whooplist/UIViewController+Keyboard.m236"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/UIViewController+Keyboard.o whooplist/UIViewController+Keyboard.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler55c154d5f789b841^bf44b0d6f789b841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/UIViewController+Keyboard.m0000000000000000^3791"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/UIViewController+Keyboard.o whooplist/UIViewController+Keyboard.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/UIViewController+Keyboard.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/UIViewController+Keyboard.dia -c /Users/dev/GitHub/whooplist-ios/Current/whooplist/UIViewController+Keyboard.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/UIViewController+Keyboard.o36"4A209884-B695-4248-9260-295709B96F99-
+b2DCAFF3E-DE21-4970-AFBB-0088981D13CF
+
+CCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLAppDelegate.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411703991.471260
+e411703991.580191
+r1
+xCompileC
+xBuild/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLAppDelegate.o
+x/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.m
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestType.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionDelegate.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionCache.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestRecord.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestDatePair.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLMainViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLogViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.m212"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLAppDelegate.o whooplist/WLAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4bcb78b71a8ab841^0e8894b71a8ab841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.m0000000000000000^3719"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLAppDelegate.o whooplist/WLAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLAppDelegate.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLAppDelegate.dia -c /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLAppDelegate.o36"B7A5DEEC-3FE8-41B2-91BE-A600358510BE-
+bD2A685EC-1214-419A-B2C5-14667D5F54A4
+
+CCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLFriendsViewController.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411703991.472313
+e411703991.575946
+r1
+xCompileC
+xBuild/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLFriendsViewController.o
+x/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.m
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestType.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionDelegate.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionCache.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestRecord.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestDatePair.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLMainViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLogViewController.h
+o/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.m:15:17: warning: method 'WLSession:didProcessRequestFailure:' in protocol not implemented [-Wprotocol]
+o@implementation WLFriendsViewController
+o                ^
+oIn file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.m:9:
+oIn file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.h:10:
+oIn file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.h:10:
+oIn file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.h:11:
+o/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionDelegate.h:16:1: note: method 'WLSession:didProcessRequestFailure:' declared here
+o-(void)WLSession:(WLSession*)session didProcessRequestFailure:(WLRequestRecord *)requestRecord;
+o^
+oIn file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.m:9:
+o/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.h:13:12: note: required for direct or indirect protocol 'WLSessionDelegate'
+o@interface WLFriendsViewController : WLLogViewController<WLSessionDelegate>
+o           ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.m232"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLFriendsViewController.o whooplist/WLFriendsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb30879b71a8ab841^c97193b71a8ab841^-1219"/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.m:15:17: warning: method 'WLSession:didProcessRequestFailure:' in protocol not implemented [-Wprotocol]@implementation WLFriendsViewController                ^In file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.m:9:In file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.h:10:In file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.h:10:In file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.h:11:/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionDelegate.h:16:1: note: method 'WLSession:didProcessRequestFailure:' declared here-(void)WLSession:(WLSession*)session didProcessRequestFailure:(WLRequestRecord *)requestRecord;^In file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.m:9:/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.h:13:12: note: required for direct or indirect protocol 'WLSessionDelegate'@interface WLFriendsViewController : WLLogViewController<WLSessionDelegate>           ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@72"Method 'WLSession:didProcessRequestFailure:' in protocol not implemented-411703991#18446744073709551615#0#2(2@58"Method 'WLSession:didProcessRequestFailure:' declared here-411703991#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@76"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionDelegate.h0000000000000000^15#0#15#0#350#0#14"Semantic Issue--2@60"Required for direct or indirect protocol 'WLSessionDelegate'-411703991#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@82"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.h0000000000000000^12#11#12#11#248#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@82"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.m0000000000000000^14#16#14#16#252#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@82"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.m0000000000000000^3779"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLFriendsViewController.o whooplist/WLFriendsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLFriendsViewController.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLFriendsViewController.dia -c /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLFriendsViewController.o36"AB733EEF-244A-48DF-893E-9F1328079E90-
+bD2A685EC-1214-419A-B2C5-14667D5F54A4
+
+CCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLLogViewController.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLogViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413073462.738861
+e413073465.990122
+r1
+xCompileC
+xBuild/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLLogViewController.o
+x/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLogViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLogViewController.m
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLogViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLogViewController.m224"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLLogViewController.o whooplist/WLLogViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4fe7c236009fb841^a378fd39009fb841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLogViewController.m0000000000000000^3755"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLLogViewController.o whooplist/WLLogViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLLogViewController.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLLogViewController.dia -c /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLogViewController.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLLogViewController.o36"BFFF3D89-1460-4EDE-9B59-936904D8B6CA-
+b018FD0E5-9CE8-4D5E-88FC-0A7CB73216B4
+
+CCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLLoginViewController.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411705257.658483
+e411705257.806931
+r1
+xCompileC
+xBuild/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLLoginViewController.o
+x/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.m
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestType.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionDelegate.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionCache.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestRecord.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestDatePair.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLMainViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLogViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.h
+o/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.m:15:17: warning: method 'WLSession:didProcessRequestFailure:' in protocol not implemented [-Wprotocol]
+o@implementation WLLoginViewController {
+o                ^
+oIn file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.m:9:
+oIn file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.h:10:
+oIn file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.h:10:
+oIn file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.h:11:
+o/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionDelegate.h:16:1: note: method 'WLSession:didProcessRequestFailure:' declared here
+o-(void)WLSession:(WLSession*)session didProcessRequestFailure:(WLRequestRecord *)requestRecord;
+o^
+oIn file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.m:9:
+o/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.h:13:12: note: required for direct or indirect protocol 'WLSessionDelegate'
+o@interface WLLoginViewController : UIViewController <UITextFieldDelegate, WLSessionDelegate>
+o           ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.m228"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLLoginViewController.o whooplist/WLLoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera3afa8a91f8ab841^4f92cea91f8ab841^-1226"/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.m:15:17: warning: method 'WLSession:didProcessRequestFailure:' in protocol not implemented [-Wprotocol]@implementation WLLoginViewController {                ^In file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.m:9:In file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.h:10:In file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.h:10:In file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.h:11:/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionDelegate.h:16:1: note: method 'WLSession:didProcessRequestFailure:' declared here-(void)WLSession:(WLSession*)session didProcessRequestFailure:(WLRequestRecord *)requestRecord;^In file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.m:9:/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.h:13:12: note: required for direct or indirect protocol 'WLSessionDelegate'@interface WLLoginViewController : UIViewController <UITextFieldDelegate, WLSessionDelegate>           ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@72"Method 'WLSession:didProcessRequestFailure:' in protocol not implemented-411705257#18446744073709551615#0#2(2@58"Method 'WLSession:didProcessRequestFailure:' declared here-411705257#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@76"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionDelegate.h0000000000000000^15#0#15#0#350#0#14"Semantic Issue--2@60"Required for direct or indirect protocol 'WLSessionDelegate'-411705257#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@80"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.h0000000000000000^12#11#12#11#240#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@80"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.m0000000000000000^14#16#14#16#246#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@80"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.m0000000000000000^3767"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLLoginViewController.o whooplist/WLLoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLLoginViewController.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLLoginViewController.dia -c /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLLoginViewController.o36"D4093D03-B333-4CDD-B9B6-2A4A514324FC-
+b1DD9CA95-A473-4CA7-82BC-FEDC5D1C9955
+
+CCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLMainViewController.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLMainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411705127.906732
+e411705129.609666
+r1
+xCompileC
+xBuild/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLMainViewController.o
+x/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLMainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLMainViewController.m
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLMainViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestType.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionDelegate.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionCache.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestRecord.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestDatePair.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLogViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLMainViewController.m226"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLMainViewController.o whooplist/WLMainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1763e8271f8ab841^f9149c291f8ab841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLMainViewController.m0000000000000000^3761"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLMainViewController.o whooplist/WLMainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLMainViewController.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLMainViewController.dia -c /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLMainViewController.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLMainViewController.o36"4879029F-F952-41C7-A740-53DED2B96B5F-
+b2A3642A7-E5F7-444E-8E16-8E9448564AE6
+
+CCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLProfileViewController.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411703991.471032
+e411703991.574920
+r1
+xCompileC
+xBuild/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLProfileViewController.o
+x/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.m
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestType.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionDelegate.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionCache.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestRecord.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestDatePair.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLMainViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLogViewController.h
+o/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.m:15:17: warning: method 'WLSession:didProcessRequestFailure:' in protocol not implemented [-Wprotocol]
+o@implementation WLProfileViewController
+o                ^
+oIn file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.m:9:
+oIn file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.h:10:
+oIn file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.h:10:
+oIn file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.h:11:
+o/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionDelegate.h:16:1: note: method 'WLSession:didProcessRequestFailure:' declared here
+o-(void)WLSession:(WLSession*)session didProcessRequestFailure:(WLRequestRecord *)requestRecord;
+o^
+oIn file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.m:9:
+o/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.h:13:12: note: required for direct or indirect protocol 'WLSessionDelegate'
+o@interface WLProfileViewController : WLLogViewController <WLSessionDelegate>
+o           ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.m232"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLProfileViewController.o whooplist/WLProfileViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler24b978b71a8ab841^bf4593b71a8ab841^-1220"/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.m:15:17: warning: method 'WLSession:didProcessRequestFailure:' in protocol not implemented [-Wprotocol]@implementation WLProfileViewController                ^In file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.m:9:In file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.h:10:In file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.h:10:In file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.h:11:/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionDelegate.h:16:1: note: method 'WLSession:didProcessRequestFailure:' declared here-(void)WLSession:(WLSession*)session didProcessRequestFailure:(WLRequestRecord *)requestRecord;^In file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.m:9:/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.h:13:12: note: required for direct or indirect protocol 'WLSessionDelegate'@interface WLProfileViewController : WLLogViewController <WLSessionDelegate>           ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@72"Method 'WLSession:didProcessRequestFailure:' in protocol not implemented-411703991#18446744073709551615#0#2(2@58"Method 'WLSession:didProcessRequestFailure:' declared here-411703991#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@76"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionDelegate.h0000000000000000^15#0#15#0#350#0#14"Semantic Issue--2@60"Required for direct or indirect protocol 'WLSessionDelegate'-411703991#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@82"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.h0000000000000000^12#11#12#11#248#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@82"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.m0000000000000000^14#16#14#16#252#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@82"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.m0000000000000000^3779"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLProfileViewController.o whooplist/WLProfileViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLProfileViewController.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLProfileViewController.dia -c /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLProfileViewController.o36"F507C359-4C48-4D1C-AB2D-DD069A21BFDB-
+bD2A685EC-1214-419A-B2C5-14667D5F54A4
+
+CCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRegisterViewController.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411705257.657491
+e411705257.807094
+r1
+xCompileC
+xBuild/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRegisterViewController.o
+x/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.m
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestType.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionDelegate.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionCache.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestRecord.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestDatePair.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLMainViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLogViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.h
+o/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.m:15:17: warning: method 'WLSession:didProcessRequestFailure:' in protocol not implemented [-Wprotocol]
+o@implementation WLRegisterViewController {
+o                ^
+oIn file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.m:9:
+oIn file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.h:10:
+oIn file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.h:10:
+oIn file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.h:11:
+o/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionDelegate.h:16:1: note: method 'WLSession:didProcessRequestFailure:' declared here
+o-(void)WLSession:(WLSession*)session didProcessRequestFailure:(WLRequestRecord *)requestRecord;
+o^
+oIn file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.m:9:
+o/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.h:12:12: note: required for direct or indirect protocol 'WLSessionDelegate'
+o@interface WLRegisterViewController : UIViewController <WLSessionDelegate>
+o           ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.m234"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRegisterViewController.o whooplist/WLRegisterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2f69a8a91f8ab841^629dcea91f8ab841^-1226"/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.m:15:17: warning: method 'WLSession:didProcessRequestFailure:' in protocol not implemented [-Wprotocol]@implementation WLRegisterViewController {                ^In file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.m:9:In file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.h:10:In file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.h:10:In file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.h:11:/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionDelegate.h:16:1: note: method 'WLSession:didProcessRequestFailure:' declared here-(void)WLSession:(WLSession*)session didProcessRequestFailure:(WLRequestRecord *)requestRecord;^In file included from /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.m:9:/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.h:12:12: note: required for direct or indirect protocol 'WLSessionDelegate'@interface WLRegisterViewController : UIViewController <WLSessionDelegate>           ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@72"Method 'WLSession:didProcessRequestFailure:' in protocol not implemented-411705257#18446744073709551615#0#2(2@58"Method 'WLSession:didProcessRequestFailure:' declared here-411705257#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@76"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionDelegate.h0000000000000000^15#0#15#0#350#0#14"Semantic Issue--2@60"Required for direct or indirect protocol 'WLSessionDelegate'-411705257#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@83"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.h0000000000000000^11#11#11#11#217#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@83"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.m0000000000000000^14#16#14#16#255#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@83"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.m0000000000000000^3785"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRegisterViewController.o whooplist/WLRegisterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRegisterViewController.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRegisterViewController.dia -c /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRegisterViewController.o36"3F40B178-8380-4B1F-866B-969E97D5223E-
+b1DD9CA95-A473-4CA7-82BC-FEDC5D1C9955
+
+CCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestDatePair.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestDatePair.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411693688.546854
+e411693689.408588
+r1
+xCompileC
+xBuild/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestDatePair.o
+x/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestDatePair.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestDatePair.m
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestDatePair.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestDatePair.m220"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestDatePair.o whooplist/WLRequestDatePair.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc6338c78f289b841^dcbd6879f289b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestDatePair.m0000000000000000^3743"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestDatePair.o whooplist/WLRequestDatePair.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestDatePair.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestDatePair.dia -c /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestDatePair.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestDatePair.o36"B730B42F-5F78-4B86-A8A2-BD0A3149E1CB-
+bD650AE74-2103-440B-B2DC-6B0E6DC10D38
+
+CCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestRecord.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestRecord.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411701765.955004
+e411701766.107654
+r1
+xCompileC
+xBuild/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestRecord.o
+x/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestRecord.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestRecord.m
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestRecord.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestType.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestDatePair.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestRecord.m216"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestRecord.o whooplist/WLRequestRecord.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2899f405128ab841^c79e1d06128ab841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestRecord.m0000000000000000^3731"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestRecord.o whooplist/WLRequestRecord.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestRecord.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestRecord.dia -c /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestRecord.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestRecord.o36"BE6BEFCE-DD9C-48FE-B376-D3BDAC5C4F46-
+bEB58A42C-6F49-4371-AA91-F5FF6B2D1320
+
+CCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestType.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestType.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411701765.955107
+e411701766.104650
+r1
+xCompileC
+xBuild/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestType.o
+x/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestType.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestType.m
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestType.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestType.m212"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestType.o whooplist/WLRequestType.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilereca2f405128ab841^80d41a06128ab841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestType.m0000000000000000^3719"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestType.o whooplist/WLRequestType.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestType.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestType.dia -c /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestType.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestType.o36"4173CA1A-687D-4A7D-902E-F2FA4E9718A4-
+bEB58A42C-6F49-4371-AA91-F5FF6B2D1320
+
+CCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLSession.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411702360.247088
+e411702360.524878
+r1
+xCompileC
+xBuild/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLSession.o
+x/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.m
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestType.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionDelegate.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionCache.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestRecord.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestDatePair.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.m204"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLSession.o whooplist/WLSession.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3e5b3f58148ab841^4d658958148ab841^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.m0000000000000000^3695"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLSession.o whooplist/WLSession.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLSession.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLSession.dia -c /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLSession.o36"97C622A5-5459-4A9C-89F2-BD6700219DE1-
+bE5B81B46-022B-49A2-9809-60E79C32C10B
+
+CCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLSessionCache.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411701765.955854
+e411701766.069365
+r1
+xCompileC
+xBuild/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLSessionCache.o
+x/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionCache.m
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionCache.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestRecord.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestType.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestDatePair.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionCache.m214"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLSessionCache.o whooplist/WLSessionCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb5ddf405128ab841^7c7c1a06128ab841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionCache.m0000000000000000^3725"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLSessionCache.o whooplist/WLSessionCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLSessionCache.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLSessionCache.dia -c /Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionCache.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLSessionCache.o36"7FE5BB47-A644-4139-800F-254F8FD4909E-
+bEB58A42C-6F49-4371-AA91-F5FF6B2D1320
+
+CCompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/main.o /Users/dev/GitHub/whooplist-ios/Current/whooplist/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411703991.470844
+e411703991.572262
+r1
+xCompileC
+xBuild/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/main.o
+x/Users/dev/GitHub/whooplist-ios/Current/whooplist/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/main.m
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLAppDelegate.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSession.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestType.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionDelegate.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLSessionCache.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestRecord.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRequestDatePair.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLMainViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLoginViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLRegisterViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLProfileViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLLogViewController.h
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLFriendsViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/dev/GitHub/whooplist-ios/Current/whooplist/main.m194"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/main.o whooplist/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3fab78b71a8ab841^288092b71a8ab841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/main.m0000000000000000^3665"CompileC Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/main.o whooplist/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -include /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/main.dia -c /Users/dev/GitHub/whooplist-ios/Current/whooplist/main.m -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/main.o36"CA871C8B-D9C0-4954-A47D-A9E7D83AAF63-
+bD2A685EC-1214-419A-B2C5-14667D5F54A4
+
+CCopyStringsFile /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/en.lproj/InfoPlist.strings whooplist/en.lproj/InfoPlist.strings
+s411187950.355311
+e411187950.488575
+r1
+xCopyStringsFile
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/en.lproj/InfoPlist.strings
+xwhooplist/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy whooplist/en.lproj/InfoPlist.strings130"CopyStringsFile Build/Products/Debug-iphonesimulator/whooplist.app/en.lproj/InfoPlist.strings whooplist/en.lproj/InfoPlist.stringsb39769ee3a82b841^b1147dee3a82b841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/en.lproj/InfoPlist.strings0000000000000000^618"CopyStringsFile Build/Products/Debug-iphonesimulator/whooplist.app/en.lproj/InfoPlist.strings whooplist/en.lproj/InfoPlist.strings    cd /Users/dev/GitHub/whooplist-ios/Current    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/en.lproj -- whooplist/en.lproj/InfoPlist.strings36"3044AD49-96E1-4E93-901F-A4607A46D57A-
+bC4487B0E-F1D0-425B-B5DC-AAB09E886CC9
+
+CGenerateDSYMFile /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app.dSYM /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/whooplist
+s413073468.150559
+e413073468.269026
+r1
+xGenerateDSYMFile
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app.dSYM
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/whooplist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Generate /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app.dSYM133"GenerateDSYMFile Build/Products/Debug-iphonesimulator/whooplist.app.dSYM Build/Products/Debug-iphonesimulator/whooplist.app/whooplist2099263c009fb841^cedf443c009fb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app.dSYM/0000000000000000^676"GenerateDSYMFile Build/Products/Debug-iphonesimulator/whooplist.app.dSYM Build/Products/Debug-iphonesimulator/whooplist.app/whooplist    cd /Users/dev/GitHub/whooplist-ios/Current    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/whooplist -o /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app.dSYM36"5A058847-958B-4621-BB2F-48789C87F608-
+b018FD0E5-9CE8-4D5E-88FC-0A7CB73216B4
+
+CLd /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/whooplist normal i386
+s413073466.328066
+e413073468.148384
+r1
+xLd
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/whooplist
+xnormal
+xi386
+d/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/whooplist.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestRecord.o
+d/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLFriendsViewController.o
+d/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestType.o
+d/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRegisterViewController.o
+d/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLSession.o
+d/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLSessionCache.o
+d/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLRequestDatePair.o
+d/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/main.o
+d/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLProfileViewController.o
+d/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLAppDelegate.o
+d/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLMainViewController.o
+d/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLLogViewController.o
+d/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/WLLoginViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Link /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/whooplist75"Ld Build/Products/Debug-iphonesimulator/whooplist.app/whooplist normal i3868d0e543a009fb841^9cfd253c009fb841^---0#0#1#--1415"Ld Build/Products/Debug-iphonesimulator/whooplist.app/whooplist normal i386    cd /Users/dev/GitHub/whooplist-ios/Current    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -filelist /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/whooplist.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Objects-normal/i386/whooplist_dependency_info.dat -o /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/whooplist36"D5BB342D-2CF5-47F9-948A-0424009E3557-
+b018FD0E5-9CE8-4D5E-88FC-0A7CB73216B4
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Script-3FFEAE7828084DD491A03344.sh
+s411191399.403843
+e411191399.849999
+r0
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Script-3FFEAE7828084DD491A03344.sh
+odiff: /../Podfile.lock: No such file or directory
+odiff: /Manifest.lock: No such file or directory
+oerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'156"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Script-3FFEAE7828084DD491A03344.sh58c567674882b841^249dd9674882b841^-212"diff: /../Podfile.lock: No such file or directorydiff: /Manifest.lock: No such file or directoryerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.3(21%IDEActivityLogMessage2@49"Diff: /../Podfile.lock: No such file or directory-411191399#0#50#-2#--29"Shell Script Invocation Error--2@47"Diff: /Manifest.lock: No such file or directory-411191399#50#48#-2#--29"Shell Script Invocation Error--2@106"The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.-411191399#98#114#-2#--29"Shell Script Invocation Error--0#0#1#--368"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Script-3FFEAE7828084DD491A03344.sh    cd /Users/dev/GitHub/whooplist-ios/Current    /bin/sh -c /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Script-3FFEAE7828084DD491A03344.sh36"B6E35E85-E69D-4F24-8BCE-DF2F98B1110A-
+b11C2E566-E1FC-4426-A70C-206B71FBBAB3
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Script-8D72BC4F493542A1B50B5ABD.sh
+s411190540.751310
+e411190542.714187
+r1
+xPhaseScriptExecution
+xCopy Pods Resources
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Script-8D72BC4F493542A1B50B5ABD.sh
+obuilding file list ... done
+o
+osent 29 bytes  received 20 bytes  98.00 bytes/sec
+ototal size is 0  speedup is 0.00
+o2014-01-11 22:35:42.277 IBCocoaTouchImageCatalogTool[3031:303] CFPreferences: user home directory at file:///Users/dev/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/Assets.car
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'151"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Script-8D72BC4F493542A1B50B5ABD.sh42e8c00c4582b841^dcd6b60e4582b841^-479"building file list ... donesent 29 bytes  received 20 bytes  98.00 bytes/sectotal size is 0  speedup is 0.002014-01-11 22:35:42.277 IBCocoaTouchImageCatalogTool[3031:303] CFPreferences: user home directory at file:///Users/dev/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/Assets.car6(21%IDEActivityLogMessage2@28"building file list ... done-411190540#0#28#-0#-----2@50"sent 29 bytes  received 20 bytes  98.00 bytes/sec-411190540#29#50#-0#-----2@33"total size is 0  speedup is 0.00-411190540#79#33#-0#-----2@221"2014-01-11 22:35:42.277 IBCocoaTouchImageCatalogTool[3031:303] CFPreferences: user home directory at file:///Users/dev/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-411190542#112#221#-0#-----2@43"/* com.apple.actool.compilation-results */-411190542#333#43#-0#-----2@102"/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/Assets.car-411190542#376#102#-0#-----0#0#1#--363"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Script-8D72BC4F493542A1B50B5ABD.sh    cd /Users/dev/GitHub/whooplist-ios/Current    /bin/sh -c /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/Script-8D72BC4F493542A1B50B5ABD.sh36"58297A6F-8E8A-4FFA-BDC9-68E328FA3E5B-
+b51D6D62C-E491-45D3-90A1-EA33E3F7BCB1
+
+CProcessInfoPlistFile /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/Info.plist /Users/dev/GitHub/whooplist-ios/Current/whooplist/whooplist-Info.plist
+s411187976.092175
+e411187976.125496
+r1
+xProcessInfoPlistFile
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/Info.plist
+x/Users/dev/GitHub/whooplist-ios/Current/whooplist/whooplist-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Process /Users/dev/GitHub/whooplist-ios/Current/whooplist/whooplist-Info.plist113"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/whooplist.app/Info.plist whooplist/whooplist-Info.plist65ab17083b82b841^c42420083b82b841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/whooplist-Info.plist0000000000000000^920"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/whooplist.app/Info.plist whooplist/whooplist-Info.plist    cd /Users/dev/GitHub/whooplist-ios/Current    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/dev/GitHub/whooplist-ios/Current/whooplist/whooplist-Info.plist -genpkginfo /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/assetcatalog_generated_info.plist -o /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app/Info.plist36"BF097C77-E18D-4E3B-A63F-2B31FD911480-
+bC4487B0E-F1D0-425B-B5DC-AAB09E886CC9
+
+CProcessPCH /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch.pch whooplist/whooplist-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411693687.677642
+e411693688.543067
+r1
+xProcessPCH
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch.pch
+xwhooplist/whooplist-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/whooplist-Prefix.pch
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/WLGlobal.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile whooplist/whooplist-Prefix.pch219"ProcessPCH Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch.pch whooplist/whooplist-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercaa5ad77f289b841^b30a8b78f289b841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/whooplist-Prefix.pch0000000000000000^3579"ProcessPCH Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch.pch whooplist/whooplist-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch.dia -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch.d -c /Users/dev/GitHub/whooplist-ios/Current/whooplist/whooplist-Prefix.pch -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-brkgymihgedvchcqiuqszkcofgyb/whooplist-Prefix.pch.pch36"8D381FB0-A2D3-4231-906C-4017DBF42498-
+bD650AE74-2103-440B-B2DC-6B0E6DC10D38
+
+CProcessPCH /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-gavjdlnnvjgceefhiccyzgakacoo/whooplist-Prefix.pch.pch whooplist/whooplist-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411191440.881690
+e411191442.451930
+r1
+xProcessPCH
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-gavjdlnnvjgceefhiccyzgakacoo/whooplist-Prefix.pch.pch
+xwhooplist/whooplist-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/whooplist-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile whooplist/whooplist-Prefix.pch219"ProcessPCH Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-gavjdlnnvjgceefhiccyzgakacoo/whooplist-Prefix.pch.pch whooplist/whooplist-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercccfe1904882b841^2db473924882b841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/whooplist-Prefix.pch0000000000000000^3579"ProcessPCH Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-gavjdlnnvjgceefhiccyzgakacoo/whooplist-Prefix.pch.pch whooplist/whooplist-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-gavjdlnnvjgceefhiccyzgakacoo/whooplist-Prefix.pch.dia -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-gavjdlnnvjgceefhiccyzgakacoo/whooplist-Prefix.pch.d -c /Users/dev/GitHub/whooplist-ios/Current/whooplist/whooplist-Prefix.pch -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-gavjdlnnvjgceefhiccyzgakacoo/whooplist-Prefix.pch.pch36"3106C0DE-DB51-40EB-AB74-C9287F1010AA-
+b24BDF8AB-E557-4A25-A441-62AC4BE77810
+
+CProcessPCH /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-hhwvxwzvierncvawezokxeffrgux/whooplist-Prefix.pch.pch whooplist/whooplist-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411187943.380492
+e411187943.470750
+r1
+xProcessPCH
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-hhwvxwzvierncvawezokxeffrgux/whooplist-Prefix.pch.pch
+xwhooplist/whooplist-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dev/GitHub/whooplist-ios/Current/whooplist/whooplist-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile whooplist/whooplist-Prefix.pch219"ProcessPCH Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-hhwvxwzvierncvawezokxeffrgux/whooplist-Prefix.pch.pch whooplist/whooplist-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2c8061e73a82b841^2b8578e73a82b841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/dev/GitHub/whooplist-ios/Current/whooplist/whooplist-Prefix.pch0000000000000000^3773"ProcessPCH Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-hhwvxwzvierncvawezokxeffrgux/whooplist-Prefix.pch.pch whooplist/whooplist-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dev/GitHub/whooplist-ios/Current    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dev/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-generated-files.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-own-target-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-all-target-headers.hmap -iquote /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/whooplist-project-headers.hmap -I/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/include -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers -I/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers/AFNetworking -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources/i386 -I/Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/whooplist.build/Debug-iphonesimulator/whooplist.build/DerivedSources -F/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator -isystem/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers -isystem/Users/dev/GitHub/whooplist-ios/Current/Pods/Headers/AFNetworking --serialize-diagnostics /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-hhwvxwzvierncvawezokxeffrgux/whooplist-Prefix.pch.dia -MMD -MT dependencies -MF /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-hhwvxwzvierncvawezokxeffrgux/whooplist-Prefix.pch.d -c /Users/dev/GitHub/whooplist-ios/Current/whooplist/whooplist-Prefix.pch -o /Users/dev/GitHub/whooplist-ios/Current/Build/Intermediates/PrecompiledHeaders/whooplist-Prefix-hhwvxwzvierncvawezokxeffrgux/whooplist-Prefix.pch.pch36"0E33F537-2B7B-47A6-A0DF-520E31CC1C51-
+bC4487B0E-F1D0-425B-B5DC-AAB09E886CC9
+
+CProcessPCH /Users/dev/Library/Developer/Xcode/DerivedData/whooplist-ewgnhgcvoeczklebrxptwfcfynck/Index/PrecompiledHeaders/whooplist-Prefix-ahqgabrbnsdvcwejrsmaodofqlzq_ast/whooplist-Prefix.pch.pch whooplist/whooplist-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/dev/Library/Developer/Xcode/DerivedData/whooplist-ewgnhgcvoeczklebrxptwfcfynck/Index/PrecompiledHeaders/whooplist-Prefix-gxqmttfpvmhjmxgiwkyofiruyzhd_ast/whooplist-Prefix.pch.pch whooplist/whooplist-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/dev/Library/Developer/Xcode/DerivedData/whooplist-ewjusxlbfrptfkavhpaanowlilvl/Index/PrecompiledHeaders/whooplist-Prefix-hbpnoodotxrxfjasrvupyidhebkj_ast/whooplist-Prefix.pch.pch whooplist/whooplist-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app
+s411695128.525141
+e411695128.601061
+r1
+xTouch
+x/Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Touch /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app56"Touch Build/Products/Debug-iphonesimulator/whooplist.appcc7d8618f889b841^a4e09918f889b841^---0#0#1#--412"Touch Build/Products/Debug-iphonesimulator/whooplist.app    cd /Users/dev/GitHub/whooplist-ios/Current    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/dev/GitHub/whooplist-ios/Current/Build/Products/Debug-iphonesimulator/whooplist.app36"5C0E4341-1316-4FBD-8DEF-9B5F2784BC5E-
+bFEF71B31-005B-4495-B772-3B640A1AF21D
+

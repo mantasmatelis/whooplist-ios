@@ -1,0 +1,424 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D7D64899189F016D00BE1ABD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7D64898189F016D00BE1ABD /* Foundation.framework */; };
+		D7D6489E189F016D00BE1ABD /* whooplist_api.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = D7D6489D189F016D00BE1ABD /* whooplist_api.h */; };
+		D7D648A0189F016D00BE1ABD /* whooplist_api.m in Sources */ = {isa = PBXBuildFile; fileRef = D7D6489F189F016D00BE1ABD /* whooplist_api.m */; };
+		D7D648A7189F016D00BE1ABD /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7D648A6189F016D00BE1ABD /* XCTest.framework */; };
+		D7D648A8189F016D00BE1ABD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7D64898189F016D00BE1ABD /* Foundation.framework */; };
+		D7D648AA189F016D00BE1ABD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7D648A9189F016D00BE1ABD /* UIKit.framework */; };
+		D7D648AD189F016D00BE1ABD /* libwhooplist-api.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D7D64895189F016D00BE1ABD /* libwhooplist-api.a */; };
+		D7D648B3189F016D00BE1ABD /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D7D648B1189F016D00BE1ABD /* InfoPlist.strings */; };
+		D7D648B5189F016D00BE1ABD /* whooplist_apiTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D7D648B4189F016D00BE1ABD /* whooplist_apiTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		D7D648AB189F016D00BE1ABD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D7D6488D189F016D00BE1ABD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D7D64894189F016D00BE1ABD;
+			remoteInfo = "whooplist-api";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		D7D64893189F016D00BE1ABD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/$(PRODUCT_NAME)";
+			dstSubfolderSpec = 16;
+			files = (
+				D7D6489E189F016D00BE1ABD /* whooplist_api.h in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		D7D64895189F016D00BE1ABD /* libwhooplist-api.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libwhooplist-api.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D7D64898189F016D00BE1ABD /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		D7D6489C189F016D00BE1ABD /* whooplist-api-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "whooplist-api-Prefix.pch"; sourceTree = "<group>"; };
+		D7D6489D189F016D00BE1ABD /* whooplist_api.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = whooplist_api.h; sourceTree = "<group>"; };
+		D7D6489F189F016D00BE1ABD /* whooplist_api.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = whooplist_api.m; sourceTree = "<group>"; };
+		D7D648A5189F016D00BE1ABD /* whooplist-apiTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "whooplist-apiTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D7D648A6189F016D00BE1ABD /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		D7D648A9189F016D00BE1ABD /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		D7D648B0189F016D00BE1ABD /* whooplist-apiTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "whooplist-apiTests-Info.plist"; sourceTree = "<group>"; };
+		D7D648B2189F016D00BE1ABD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		D7D648B4189F016D00BE1ABD /* whooplist_apiTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = whooplist_apiTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D7D64892189F016D00BE1ABD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D7D64899189F016D00BE1ABD /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D7D648A2189F016D00BE1ABD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D7D648AD189F016D00BE1ABD /* libwhooplist-api.a in Frameworks */,
+				D7D648A7189F016D00BE1ABD /* XCTest.framework in Frameworks */,
+				D7D648AA189F016D00BE1ABD /* UIKit.framework in Frameworks */,
+				D7D648A8189F016D00BE1ABD /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D7D6488C189F016D00BE1ABD = {
+			isa = PBXGroup;
+			children = (
+				D7D6489A189F016D00BE1ABD /* whooplist-api */,
+				D7D648AE189F016D00BE1ABD /* whooplist-apiTests */,
+				D7D64897189F016D00BE1ABD /* Frameworks */,
+				D7D64896189F016D00BE1ABD /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D7D64896189F016D00BE1ABD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D7D64895189F016D00BE1ABD /* libwhooplist-api.a */,
+				D7D648A5189F016D00BE1ABD /* whooplist-apiTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D7D64897189F016D00BE1ABD /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D7D64898189F016D00BE1ABD /* Foundation.framework */,
+				D7D648A6189F016D00BE1ABD /* XCTest.framework */,
+				D7D648A9189F016D00BE1ABD /* UIKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D7D6489A189F016D00BE1ABD /* whooplist-api */ = {
+			isa = PBXGroup;
+			children = (
+				D7D6489D189F016D00BE1ABD /* whooplist_api.h */,
+				D7D6489F189F016D00BE1ABD /* whooplist_api.m */,
+				D7D6489B189F016D00BE1ABD /* Supporting Files */,
+			);
+			path = "whooplist-api";
+			sourceTree = "<group>";
+		};
+		D7D6489B189F016D00BE1ABD /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				D7D6489C189F016D00BE1ABD /* whooplist-api-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D7D648AE189F016D00BE1ABD /* whooplist-apiTests */ = {
+			isa = PBXGroup;
+			children = (
+				D7D648B4189F016D00BE1ABD /* whooplist_apiTests.m */,
+				D7D648AF189F016D00BE1ABD /* Supporting Files */,
+			);
+			path = "whooplist-apiTests";
+			sourceTree = "<group>";
+		};
+		D7D648AF189F016D00BE1ABD /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				D7D648B0189F016D00BE1ABD /* whooplist-apiTests-Info.plist */,
+				D7D648B1189F016D00BE1ABD /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D7D64894189F016D00BE1ABD /* whooplist-api */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D7D648B8189F016D00BE1ABD /* Build configuration list for PBXNativeTarget "whooplist-api" */;
+			buildPhases = (
+				D7D64891189F016D00BE1ABD /* Sources */,
+				D7D64892189F016D00BE1ABD /* Frameworks */,
+				D7D64893189F016D00BE1ABD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "whooplist-api";
+			productName = "whooplist-api";
+			productReference = D7D64895189F016D00BE1ABD /* libwhooplist-api.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		D7D648A4189F016D00BE1ABD /* whooplist-apiTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D7D648BB189F016D00BE1ABD /* Build configuration list for PBXNativeTarget "whooplist-apiTests" */;
+			buildPhases = (
+				D7D648A1189F016D00BE1ABD /* Sources */,
+				D7D648A2189F016D00BE1ABD /* Frameworks */,
+				D7D648A3189F016D00BE1ABD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D7D648AC189F016D00BE1ABD /* PBXTargetDependency */,
+			);
+			name = "whooplist-apiTests";
+			productName = "whooplist-apiTests";
+			productReference = D7D648A5189F016D00BE1ABD /* whooplist-apiTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D7D6488D189F016D00BE1ABD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = Whooplist;
+			};
+			buildConfigurationList = D7D64890189F016D00BE1ABD /* Build configuration list for PBXProject "whooplist-api" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = D7D6488C189F016D00BE1ABD;
+			productRefGroup = D7D64896189F016D00BE1ABD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D7D64894189F016D00BE1ABD /* whooplist-api */,
+				D7D648A4189F016D00BE1ABD /* whooplist-apiTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D7D648A3189F016D00BE1ABD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D7D648B3189F016D00BE1ABD /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D7D64891189F016D00BE1ABD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D7D648A0189F016D00BE1ABD /* whooplist_api.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D7D648A1189F016D00BE1ABD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D7D648B5189F016D00BE1ABD /* whooplist_apiTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D7D648AC189F016D00BE1ABD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D7D64894189F016D00BE1ABD /* whooplist-api */;
+			targetProxy = D7D648AB189F016D00BE1ABD /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		D7D648B1189F016D00BE1ABD /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D7D648B2189F016D00BE1ABD /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		D7D648B6189F016D00BE1ABD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		D7D648B7189F016D00BE1ABD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D7D648B9189F016D00BE1ABD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DSTROOT = /tmp/whooplist_api.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "whooplist-api/whooplist-api-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		D7D648BA189F016D00BE1ABD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DSTROOT = /tmp/whooplist_api.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "whooplist-api/whooplist-api-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		D7D648BC189F016D00BE1ABD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "whooplist-api/whooplist-api-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "whooplist-apiTests/whooplist-apiTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		D7D648BD189F016D00BE1ABD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "whooplist-api/whooplist-api-Prefix.pch";
+				INFOPLIST_FILE = "whooplist-apiTests/whooplist-apiTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D7D64890189F016D00BE1ABD /* Build configuration list for PBXProject "whooplist-api" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D7D648B6189F016D00BE1ABD /* Debug */,
+				D7D648B7189F016D00BE1ABD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D7D648B8189F016D00BE1ABD /* Build configuration list for PBXNativeTarget "whooplist-api" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D7D648B9189F016D00BE1ABD /* Debug */,
+				D7D648BA189F016D00BE1ABD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		D7D648BB189F016D00BE1ABD /* Build configuration list for PBXNativeTarget "whooplist-apiTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D7D648BC189F016D00BE1ABD /* Debug */,
+				D7D648BD189F016D00BE1ABD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D7D6488D189F016D00BE1ABD /* Project object */;
+}

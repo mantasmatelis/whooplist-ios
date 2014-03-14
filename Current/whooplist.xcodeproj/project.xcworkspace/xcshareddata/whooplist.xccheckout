@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>2EF92350-FB42-4F3B-85DC-8BED92A6FA8A</string>
+	<string>5BB85AA6-9E7C-4AE0-A339-72A0C1B3793E</string>
 	<key>IDESourceControlProjectName</key>
 	<string>whooplist</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -14,11 +14,11 @@
 		<string>https://github.com/mantasmatelis/whooplist-ios.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Current/whooplist/whooplist.xcodeproj/project.xcworkspace</string>
+	<string>Current/whooplist.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>1DE2A960-289A-41F1-877D-DCB1EF4DC8AC</key>
-		<string>../../../..</string>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/mantasmatelis/whooplist-ios.git</string>

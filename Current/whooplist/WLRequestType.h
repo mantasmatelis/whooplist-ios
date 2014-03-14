@@ -22,5 +22,11 @@
 +(WLRequestType *)createUserRequestType;
 +(WLRequestType *)getUserRequestType;
 +(WLRequestType *)getUserFriendsRequestType;
++(WLRequestType *)deleteUserFriendRequestType;
++(WLRequestType *)getListTypesRequestType;
++(WLRequestType *)searchPlaceRequestType;
++(WLRequestType *)getUserListRequestType;
++(WLRequestType *)appendUserListRequestType;
++(WLRequestType *)createUserListRequestType;
 
 @end
